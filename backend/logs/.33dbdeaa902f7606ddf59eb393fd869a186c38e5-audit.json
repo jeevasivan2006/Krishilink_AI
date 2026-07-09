@@ -1,0 +1,30 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\jeeva\\OneDrive\\Desktop\\KrishiLink_Ai\\backend\\logs\\.33dbdeaa902f7606ddf59eb393fd869a186c38e5-audit.json",
+    "files": [
+        {
+            "date": 1783360813057,
+            "name": "C:\\Users\\jeeva\\OneDrive\\Desktop\\KrishiLink_Ai\\backend\\logs\\error-2026-07-06.log",
+            "hash": "126d24e6d19f9583dac6451710615adb5a5671cb4218aa519608a0ad159a2346"
+        },
+        {
+            "date": 1783366342829,
+            "name": "C:\\Users\\jeeva\\OneDrive\\Desktop\\KrishiLink_Ai\\backend\\logs\\error-2026-07-07.log",
+            "hash": "47241b03aced48a43a3b7e444de885eb30ab2b155c35b09139231766b5368fe8"
+        },
+        {
+            "date": 1783451405543,
+            "name": "C:\\Users\\jeeva\\OneDrive\\Desktop\\KrishiLink_Ai\\backend\\logs\\error-2026-07-08.log",
+            "hash": "cc051b2b6fe2db2d3f486963c369e4710d645e1af37818f26cd041afa8241bc4"
+        },
+        {
+            "date": 1783535463496,
+            "name": "C:\\Users\\jeeva\\OneDrive\\Desktop\\KrishiLink_Ai\\backend\\logs\\error-2026-07-09.log",
+            "hash": "d1db1bc6e04c2af24362bac36337ed6713b3069ec79a081798fdba69082aa989"
+        }
+    ],
+    "hashType": "sha256"
+}

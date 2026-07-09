@@ -1,0 +1,29 @@
+2026-07-07 01:02:22 info: ✓ dotenv loaded
+2026-07-07 01:02:22 info: ✓ DATABASE_URL found
+2026-07-07 01:02:23 info: ✓ Connecting to Supabase...
+2026-07-07 01:02:24 info: ✓ Connected
+2026-07-07 01:02:24 info: KrishiLink API listening on port 3000
+2026-07-07 22:35:31 info: ✓ dotenv loaded
+2026-07-07 22:35:31 info: ✓ DATABASE_URL found
+2026-07-07 22:35:32 info: ✓ Connecting to Supabase...
+2026-07-07 22:35:32 info: ✓ Connected
+2026-07-07 22:35:32 info: KrishiLink API listening on port 3000
+2026-07-07 22:36:32 info: ✓ dotenv loaded
+2026-07-07 22:36:32 info: ✓ DATABASE_URL found
+2026-07-07 22:36:33 info: ✓ Connecting to Supabase...
+2026-07-07 22:36:33 info: ✓ Connected
+2026-07-07 22:37:34 info: ✓ dotenv loaded
+2026-07-07 22:37:34 info: ✓ DATABASE_URL found
+2026-07-07 22:37:34 info: ✓ Connecting to Supabase...
+2026-07-07 22:37:35 info: ✓ Connected
+2026-07-07 22:37:35 info: KrishiLink API listening on port 3000
+2026-07-07 22:40:27 info: ✓ dotenv loaded
+2026-07-07 22:40:27 info: ✓ DATABASE_URL found
+2026-07-07 22:40:28 info: ✓ Connecting to Supabase...
+2026-07-07 22:40:28 info: ✓ Connected
+2026-07-07 22:40:28 info: KrishiLink API listening on port 3000
+2026-07-07 23:31:40 info: ✓ dotenv loaded
+2026-07-07 23:31:40 info: ✓ DATABASE_URL found
+2026-07-07 23:31:40 info: ✓ Connecting to Supabase...
+2026-07-07 23:31:41 info: ✓ Connected
+2026-07-07 23:31:41 info: KrishiLink API listening on port 3000

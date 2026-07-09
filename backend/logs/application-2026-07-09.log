@@ -1,0 +1,1996 @@
+2026-07-09 00:01:03 error: error: current transaction is aborted, commands ignored until end of transaction block
+    at C:\Users\jeeva\OneDrive\Desktop\KrishiLink_Ai\backend\node_modules\pg\lib\client.js:652:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/services/authService.js:66:5
+    at async withTransaction (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/database/transaction.js:11:20)
+    at async registerUser (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/controllers/authController.js:10:18)
+2026-07-09 00:01:03 info: [0mPOST /api/v1/admin/auth/register [31m500[0m 1199.314 ms - 819[0m
+2026-07-09 00:01:04 error: error: current transaction is aborted, commands ignored until end of transaction block
+    at C:\Users\jeeva\OneDrive\Desktop\KrishiLink_Ai\backend\node_modules\pg\lib\client.js:652:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/services/authService.js:66:5
+    at async withTransaction (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/database/transaction.js:11:20)
+    at async registerUser (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/controllers/authController.js:10:18)
+2026-07-09 00:01:04 info: [0mPOST /api/v1/admin/auth/register [31m500[0m 670.675 ms - 819[0m
+2026-07-09 00:06:38 info: ✓ dotenv loaded
+2026-07-09 00:06:38 info: ✓ DATABASE_URL found
+2026-07-09 00:06:38 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 00:06:38 info:   KrishiLink API — Starting Up
+2026-07-09 00:06:38 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 00:06:38 info: ✓ Environment   : development
+2026-07-09 00:06:38 info: ✓ Environment variables loaded
+2026-07-09 00:06:38 info: ✓ Supabase PostgreSQL configuration loaded
+2026-07-09 00:06:38 info: ✓ Connecting to Supabase...
+2026-07-09 00:06:38 info: ✓ Connected
+2026-07-09 00:06:38 info: ✓ Database connected
+2026-07-09 00:06:38 info: ✓ Server listening on PORT 3000
+2026-07-09 00:06:38 info: ✓ API Base URL  : http://localhost:3000/api/v1
+2026-07-09 00:06:38 info: ✓ Swagger Docs  : http://localhost:3000/api-docs
+2026-07-09 00:06:38 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 00:07:33 info: ✓ dotenv loaded
+2026-07-09 00:07:33 info: ✓ DATABASE_URL found
+2026-07-09 00:07:33 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 00:07:33 info:   KrishiLink API — Starting Up
+2026-07-09 00:07:33 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 00:07:33 info: ✓ Environment   : development
+2026-07-09 00:07:33 info: ✓ Environment variables loaded
+2026-07-09 00:07:33 info: ✓ Supabase PostgreSQL configuration loaded
+2026-07-09 00:07:33 info: ✓ Connecting to Supabase...
+2026-07-09 00:07:34 info: ✓ Connected
+2026-07-09 00:07:34 info: ✓ Database connected
+2026-07-09 00:07:34 warn: ⚠️  Port 3000 is already in use. Finding next available port…
+2026-07-09 00:07:34 warn: ⚠️  Switching to port 3001. Set PORT=3001 in .env to make permanent.
+2026-07-09 00:07:34 info: ✓ Server listening on PORT 3001
+2026-07-09 00:07:34 info: ✓ API Base URL  : http://localhost:3001/api/v1
+2026-07-09 00:07:34 info: ✓ Swagger Docs  : http://localhost:3001/api-docs
+2026-07-09 00:07:34 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 00:11:17 info: 
+🛑 Received SIGINT. Shutting down gracefully…
+2026-07-09 00:12:04 error: error: current transaction is aborted, commands ignored until end of transaction block
+    at C:\Users\jeeva\OneDrive\Desktop\KrishiLink_Ai\backend\node_modules\pg\lib\client.js:652:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/services/authService.js:66:5
+    at async withTransaction (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/database/transaction.js:11:20)
+    at async registerUser (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/controllers/authController.js:10:18)
+2026-07-09 00:12:04 info: [0mPOST /api/v1/admin/auth/register [31m500[0m 1212.307 ms - 819[0m
+2026-07-09 00:12:05 error: error: current transaction is aborted, commands ignored until end of transaction block
+    at C:\Users\jeeva\OneDrive\Desktop\KrishiLink_Ai\backend\node_modules\pg\lib\client.js:652:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/services/authService.js:66:5
+    at async withTransaction (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/database/transaction.js:11:20)
+    at async registerUser (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/controllers/authController.js:10:18)
+2026-07-09 00:12:05 info: [0mPOST /api/v1/admin/auth/register [31m500[0m 688.991 ms - 819[0m
+2026-07-09 00:13:27 info: ✓ dotenv loaded
+2026-07-09 00:13:27 info: ✓ DATABASE_URL found
+2026-07-09 00:13:28 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 00:13:28 info:   KrishiLink API — Starting Up
+2026-07-09 00:13:28 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 00:13:28 info: ✓ Environment   : development
+2026-07-09 00:13:28 info: ✓ Environment variables loaded
+2026-07-09 00:13:28 info: ✓ Supabase PostgreSQL configuration loaded
+2026-07-09 00:13:28 info: ✓ Connecting to Supabase...
+2026-07-09 00:13:28 info: ✓ Connected
+2026-07-09 00:13:28 info: ✓ Database connected
+2026-07-09 00:13:28 warn: ⚠️  Port 3000 is already in use. Finding next available port…
+2026-07-09 00:13:28 warn: ⚠️  Switching to port 3001. Set PORT=3001 in .env to make permanent.
+2026-07-09 00:13:28 info: ✓ Server listening on PORT 3001
+2026-07-09 00:13:28 info: ✓ API Base URL  : http://localhost:3001/api/v1
+2026-07-09 00:13:28 info: ✓ Swagger Docs  : http://localhost:3001/api-docs
+2026-07-09 00:13:28 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 00:14:42 error: error: current transaction is aborted, commands ignored until end of transaction block
+    at C:\Users\jeeva\OneDrive\Desktop\KrishiLink_Ai\backend\node_modules\pg\lib\client.js:652:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/services/authService.js:66:5
+    at async withTransaction (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/database/transaction.js:11:20)
+    at async registerUser (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/controllers/authController.js:10:18)
+2026-07-09 00:14:42 info: [0mPOST /api/v1/admin/auth/register [31m500[0m 2012.439 ms - 819[0m
+2026-07-09 00:14:44 error: error: current transaction is aborted, commands ignored until end of transaction block
+    at C:\Users\jeeva\OneDrive\Desktop\KrishiLink_Ai\backend\node_modules\pg\lib\client.js:652:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/services/authService.js:66:5
+    at async withTransaction (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/database/transaction.js:11:20)
+    at async registerUser (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/controllers/authController.js:10:18)
+2026-07-09 00:14:44 info: [0mPOST /api/v1/admin/auth/register [31m500[0m 960.672 ms - 819[0m
+2026-07-09 00:17:52 info: ✓ dotenv loaded
+2026-07-09 00:17:52 info: ✓ dotenv loaded
+2026-07-09 00:17:52 info: ✓ DATABASE_URL found
+2026-07-09 00:17:52 info: ✓ DATABASE_URL found
+2026-07-09 00:17:52 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 00:17:52 info:   KrishiLink API — Starting Up
+2026-07-09 00:17:52 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 00:17:52 info: ✓ Environment   : development
+2026-07-09 00:17:52 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 00:17:52 info: ✓ Environment variables loaded
+2026-07-09 00:17:52 info:   KrishiLink API — Starting Up
+2026-07-09 00:17:52 info: ✓ Supabase PostgreSQL configuration loaded
+2026-07-09 00:17:52 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 00:17:52 info: ✓ Environment   : development
+2026-07-09 00:17:52 info: ✓ Connecting to Supabase...
+2026-07-09 00:17:52 info: ✓ Environment variables loaded
+2026-07-09 00:17:52 info: ✓ Supabase PostgreSQL configuration loaded
+2026-07-09 00:17:52 info: ✓ Connecting to Supabase...
+2026-07-09 00:17:53 info: ✓ Connected
+2026-07-09 00:17:53 info: ✓ Connected
+2026-07-09 00:17:53 info: ✓ Database connected
+2026-07-09 00:17:53 info: ✓ Server listening on PORT 3000
+2026-07-09 00:17:53 info: ✓ API Base URL  : http://localhost:3000/api/v1
+2026-07-09 00:17:53 info: ✓ Swagger Docs  : http://localhost:3000/api-docs
+2026-07-09 00:17:53 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 00:17:53 info: ✓ Database connected
+2026-07-09 00:17:53 warn: ⚠️  Port 3000 is already in use. Finding next available port…
+2026-07-09 00:17:53 warn: ⚠️  Switching to port 3001. Set PORT=3001 in .env to make permanent.
+2026-07-09 00:17:53 info: ✓ Server listening on PORT 3001
+2026-07-09 00:17:53 info: ✓ API Base URL  : http://localhost:3001/api/v1
+2026-07-09 00:17:53 info: ✓ Swagger Docs  : http://localhost:3001/api-docs
+2026-07-09 00:17:53 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 00:17:59 info: 
+🛑 Received SIGINT. Shutting down gracefully…
+2026-07-09 00:18:22 info: ✓ dotenv loaded
+2026-07-09 00:18:22 info: ✓ DATABASE_URL found
+2026-07-09 00:18:22 info: ✓ Connecting to Supabase...
+2026-07-09 00:18:23 info: ✓ Connected
+2026-07-09 00:18:24 info: 🛑 PostgreSQL pool has been closed
+2026-07-09 00:19:19 info: [0mPOST /api/v1/admin/auth/register [32m201[0m 1951.013 ms - 748[0m
+2026-07-09 00:19:37 info: ✓ dotenv loaded
+2026-07-09 00:19:37 info: ✓ DATABASE_URL found
+2026-07-09 00:19:37 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 00:19:37 info:   KrishiLink API — Starting Up
+2026-07-09 00:19:37 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 00:19:37 info: ✓ Environment   : development
+2026-07-09 00:19:37 info: ✓ Environment variables loaded
+2026-07-09 00:19:37 info: ✓ Supabase PostgreSQL configuration loaded
+2026-07-09 00:19:37 info: ✓ Connecting to Supabase...
+2026-07-09 00:19:38 info: ✓ Connected
+2026-07-09 00:19:38 info: ✓ Database connected
+2026-07-09 00:19:38 info: ✓ Server listening on PORT 3000
+2026-07-09 00:19:38 info: ✓ API Base URL  : http://localhost:3000/api/v1
+2026-07-09 00:19:38 info: ✓ Swagger Docs  : http://localhost:3000/api-docs
+2026-07-09 00:19:38 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 00:20:32 info: ✓ dotenv loaded
+2026-07-09 00:20:32 info: ✓ DATABASE_URL found
+2026-07-09 00:20:32 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 00:20:32 info:   KrishiLink API — Starting Up
+2026-07-09 00:20:32 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 00:20:32 info: ✓ Environment   : development
+2026-07-09 00:20:32 info: ✓ Environment variables loaded
+2026-07-09 00:20:32 info: ✓ Supabase PostgreSQL configuration loaded
+2026-07-09 00:20:32 info: ✓ Connecting to Supabase...
+2026-07-09 00:20:33 info: ✓ Connected
+2026-07-09 00:20:33 info: ✓ Database connected
+2026-07-09 00:20:33 warn: ⚠️  Port 3000 is already in use. Finding next available port…
+2026-07-09 00:20:33 warn: ⚠️  Switching to port 3001. Set PORT=3001 in .env to make permanent.
+2026-07-09 00:20:33 info: ✓ Server listening on PORT 3001
+2026-07-09 00:20:33 info: ✓ API Base URL  : http://localhost:3001/api/v1
+2026-07-09 00:20:33 info: ✓ Swagger Docs  : http://localhost:3001/api-docs
+2026-07-09 00:20:33 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 00:21:25 info: [0mPOST /api/v1/admin/auth/register [32m201[0m 1422.326 ms - 747[0m
+2026-07-09 00:24:08 error: ConflictError: An account with this email already exists
+    at file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/services/authService.js:29:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async withTransaction (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/database/transaction.js:11:20)
+    at async registerUser (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/controllers/authController.js:10:18)
+2026-07-09 00:24:08 info: [0mPOST /api/v1/admin/auth/register [33m409[0m 639.687 ms - 111[0m
+2026-07-09 00:24:16 error: ConflictError: An account with this email already exists
+    at file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/services/authService.js:29:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async withTransaction (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/database/transaction.js:11:20)
+    at async registerUser (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/controllers/authController.js:10:18)
+2026-07-09 00:24:16 info: [0mPOST /api/v1/admin/auth/register [33m409[0m 174.628 ms - 111[0m
+2026-07-09 00:24:34 error: UnauthorizedError: Invalid email or password
+    at Module.login (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/services/authService.js:121:23)
+    at async login (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/controllers/authController.js:16:18)
+2026-07-09 00:24:34 info: [0mPOST /api/v1/admin/auth/login [33m401[0m 395.741 ms - 95[0m
+2026-07-09 00:25:07 error: UnauthorizedError: Invalid email or password
+    at Module.login (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/services/authService.js:110:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async login (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/controllers/authController.js:16:18)
+2026-07-09 00:25:07 info: [0mPOST /api/v1/admin/auth/login [33m401[0m 810.393 ms - 95[0m
+2026-07-09 00:25:30 error: UnauthorizedError: Invalid email or password
+    at Module.login (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/services/authService.js:110:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async login (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/controllers/authController.js:16:18)
+2026-07-09 00:25:30 info: [0mPOST /api/v1/admin/auth/login [33m401[0m 69.046 ms - 95[0m
+2026-07-09 00:25:53 info: ✓ dotenv loaded
+2026-07-09 00:25:53 info: ✓ DATABASE_URL found
+2026-07-09 00:25:53 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 00:25:53 info:   KrishiLink API — Starting Up
+2026-07-09 00:25:53 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 00:25:53 info: ✓ Environment   : development
+2026-07-09 00:25:53 info: ✓ Environment variables loaded
+2026-07-09 00:25:53 info: ✓ Supabase PostgreSQL configuration loaded
+2026-07-09 00:25:53 info: ✓ Connecting to Supabase...
+2026-07-09 00:25:53 info: ✓ Connected
+2026-07-09 00:25:53 info: ✓ Database connected
+2026-07-09 00:25:53 info: ✓ Server listening on PORT 3000
+2026-07-09 00:25:53 info: ✓ API Base URL  : http://localhost:3000/api/v1
+2026-07-09 00:25:53 info: ✓ Swagger Docs  : http://localhost:3000/api-docs
+2026-07-09 00:25:53 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 22:17:59 info: ✓ dotenv loaded
+2026-07-09 22:17:59 info: ✓ DATABASE_URL found
+2026-07-09 22:17:59 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 22:17:59 info:   KrishiLink API — Starting Up
+2026-07-09 22:17:59 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 22:17:59 info: ✓ Environment   : development
+2026-07-09 22:17:59 info: ✓ Environment variables loaded
+2026-07-09 22:17:59 info: ✓ Supabase PostgreSQL configuration loaded
+2026-07-09 22:17:59 info: ✓ Connecting to Supabase...
+2026-07-09 22:18:00 info: ✓ Connected
+2026-07-09 22:18:00 info: ✓ Database connected
+2026-07-09 22:18:00 info: ✓ Server listening on PORT 3000
+2026-07-09 22:18:00 info: ✓ API Base URL  : http://localhost:3000/api/v1
+2026-07-09 22:18:00 info: ✓ Swagger Docs  : http://localhost:3000/api-docs
+2026-07-09 22:18:00 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 22:19:48 error: UnauthorizedError: Invalid email or password
+    at Module.login (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/services/authService.js:110:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async login (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/controllers/authController.js:16:18)
+2026-07-09 22:19:48 info: [0mPOST /api/v1/admin/auth/login [33m401[0m 668.481 ms - 95[0m
+2026-07-09 22:25:50 info: 
+🛑 Received SIGINT. Shutting down gracefully…
+2026-07-09 22:32:51 info: ✓ dotenv loaded
+2026-07-09 22:32:51 info: ✓ DATABASE_URL found
+2026-07-09 22:32:51 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 22:32:51 info:   KrishiLink API — Starting Up
+2026-07-09 22:32:51 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 22:32:51 info: ✓ Environment   : development
+2026-07-09 22:32:51 info: ✓ Environment variables loaded
+2026-07-09 22:32:51 info: ✓ Supabase PostgreSQL configuration loaded
+2026-07-09 22:32:51 info: ✓ Connecting to Supabase...
+2026-07-09 22:32:52 info: ✓ Connected
+2026-07-09 22:32:52 info: ✓ Database connected
+2026-07-09 22:32:52 info: ✓ Server listening on PORT 3000
+2026-07-09 22:32:52 info: ✓ API Base URL  : http://localhost:3000/api/v1
+2026-07-09 22:32:52 info: ✓ Swagger Docs  : http://localhost:3000/api-docs
+2026-07-09 22:32:52 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 22:33:57 error: UnauthorizedError: Invalid email or password
+    at Module.login (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/services/authService.js:110:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async login (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/controllers/authController.js:15:18)
+2026-07-09 22:33:57 info: [0mPOST /api/v1/admin/auth/login [33m401[0m 931.756 ms - 95[0m
+2026-07-09 22:34:11 info: [0mPOST /api/v1/admin/auth/register [32m201[0m 886.132 ms - 748[0m
+2026-07-09 22:34:27 info: [0mPOST /api/v1/admin/auth/login [32m200[0m 402.318 ms - 736[0m
+2026-07-09 22:35:33 info: [0mGET /api/v1/admin/auth/me [32m200[0m 693.977 ms - 254[0m
+2026-07-09 22:36:44 info: [0mPOST /api/v1/admin/auth/login [32m200[0m 2328.448 ms - 736[0m
+2026-07-09 22:36:44 info: [0mGET /api/v1/farmer/profile [32m200[0m 68.655 ms - 210[0m
+2026-07-09 22:36:45 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [32m200[0m 665.127 ms - 126[0m
+2026-07-09 22:36:45 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [32m200[0m 661.108 ms - 190[0m
+2026-07-09 22:36:45 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [32m200[0m 722.049 ms - 175[0m
+2026-07-09 22:36:45 info: [0mGET /api/v1/farmer/dashboard [32m200[0m 888.491 ms - 180[0m
+2026-07-09 22:37:22 info: [0mGET /api/v1/admin/auth/me [32m200[0m 1038.364 ms - 254[0m
+2026-07-09 22:37:22 info: [0mGET /api/v1/admin/auth/me [32m200[0m 112.378 ms - 254[0m
+2026-07-09 22:37:22 info: [0mGET /api/v1/farmer/profile [32m200[0m 125.593 ms - 210[0m
+2026-07-09 22:37:23 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [32m200[0m 991.230 ms - 175[0m
+2026-07-09 22:37:23 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [32m200[0m 989.261 ms - 190[0m
+2026-07-09 22:37:23 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [32m200[0m 1111.075 ms - 126[0m
+2026-07-09 22:37:23 info: [0mGET /api/v1/farmer/dashboard [32m200[0m 1164.105 ms - 180[0m
+2026-07-09 22:37:29 info: [0mGET /api/v1/admin/auth/me [32m200[0m 50.962 ms - 254[0m
+2026-07-09 22:37:30 info: [0mGET /api/v1/admin/auth/me [32m200[0m 381.299 ms - 254[0m
+2026-07-09 22:37:51 info: [0mPOST /api/v1/admin/auth/logout [32m200[0m 703.675 ms - 127[0m
+2026-07-09 22:41:54 info: [0mPOST /api/v1/admin/auth/login [32m200[0m 2351.336 ms - 736[0m
+2026-07-09 22:41:54 info: [0mGET /api/v1/farmer/profile [32m200[0m 197.855 ms - 210[0m
+2026-07-09 22:41:55 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [32m200[0m 1213.342 ms - 126[0m
+2026-07-09 22:41:55 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [32m200[0m 1314.199 ms - 175[0m
+2026-07-09 22:41:55 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [32m200[0m 1313.393 ms - 190[0m
+2026-07-09 22:41:55 info: [0mGET /api/v1/farmer/dashboard [32m200[0m 1627.965 ms - 180[0m
+2026-07-09 22:42:15 info: [0mGET /api/v1/admin/auth/me [32m200[0m 234.757 ms - 254[0m
+2026-07-09 22:42:15 info: [0mGET /api/v1/admin/auth/me [32m200[0m 140.405 ms - 254[0m
+2026-07-09 22:42:15 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [32m200[0m 175.214 ms - 126[0m
+2026-07-09 22:42:15 info: [0mGET /api/v1/farmer/profile [32m200[0m 179.723 ms - 210[0m
+2026-07-09 22:42:16 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [32m200[0m 269.647 ms - 175[0m
+2026-07-09 22:42:16 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [32m200[0m 269.273 ms - 190[0m
+2026-07-09 22:42:16 info: [0mGET /api/v1/farmer/dashboard [32m200[0m 477.838 ms - 180[0m
+2026-07-09 22:42:43 info: [0mGET /api/v1/admin/auth/me [32m200[0m 446.001 ms - 254[0m
+2026-07-09 22:42:43 info: [0mGET /api/v1/admin/auth/me [32m200[0m 202.135 ms - 254[0m
+2026-07-09 22:42:43 info: [0mGET /api/v1/farmer/profile [32m200[0m 142.707 ms - 210[0m
+2026-07-09 22:42:58 info: [0mGET /api/v1/admin/auth/me [32m200[0m 408.939 ms - 254[0m
+2026-07-09 22:42:58 info: [0mGET /api/v1/admin/auth/me [32m200[0m 88.753 ms - 254[0m
+2026-07-09 22:42:59 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [32m200[0m 76.473 ms - 126[0m
+2026-07-09 22:43:26 info: [0mPOST /api/v1/admin/auth/logout [32m200[0m 263.301 ms - 127[0m
+2026-07-09 22:47:44 info: ✓ dotenv loaded
+2026-07-09 22:47:44 info: ✓ DATABASE_URL found
+2026-07-09 22:47:44 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 22:47:44 info:   KrishiLink API — Starting Up
+2026-07-09 22:47:44 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 22:47:44 info: ✓ Environment   : development
+2026-07-09 22:47:44 info: ✓ Environment variables loaded
+2026-07-09 22:47:44 info: ✓ Supabase PostgreSQL configuration loaded
+2026-07-09 22:47:44 info: ✓ Connecting to Supabase...
+2026-07-09 22:47:45 info: ✓ Connected
+2026-07-09 22:47:45 info: ✓ Database connected
+2026-07-09 22:47:45 warn: ⚠️  Port 3000 is already in use. Finding next available port…
+2026-07-09 22:47:45 warn: ⚠️  Switching to port 3001. Set PORT=3001 in .env to make permanent.
+2026-07-09 22:47:45 info: ✓ Server listening on PORT 3001
+2026-07-09 22:47:45 info: ✓ API Base URL  : http://localhost:3001/api/v1
+2026-07-09 22:47:45 info: ✓ Swagger Docs  : http://localhost:3001/api-docs
+2026-07-09 22:47:45 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 22:49:26 error: ConflictError: An account with this email already exists
+    at file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/services/authService.js:29:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async withTransaction (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/database/transaction.js:11:20)
+    at async registerUser (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/controllers/authController.js:9:18)
+2026-07-09 22:49:26 info: [0mPOST /api/v1/admin/auth/register [33m409[0m 737.977 ms - 111[0m
+2026-07-09 22:49:52 info: [0mPOST /api/v1/admin/auth/login [32m200[0m 448.063 ms - 735[0m
+2026-07-09 22:49:53 info: [0mGET /api/v1/farmer/profile [32m200[0m 65.784 ms - 209[0m
+2026-07-09 22:49:53 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [32m200[0m 595.641 ms - 126[0m
+2026-07-09 22:49:53 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [32m200[0m 692.456 ms - 175[0m
+2026-07-09 22:49:54 info: [0mGET /api/v1/farmer/dashboard [32m200[0m 831.481 ms - 180[0m
+2026-07-09 22:49:54 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [32m200[0m 848.969 ms - 190[0m
+2026-07-09 22:50:12 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [32m200[0m 205.199 ms - 126[0m
+2026-07-09 22:50:25 info: [0mGET /api/v1/admin/auth/me [32m200[0m 97.880 ms - 253[0m
+2026-07-09 22:50:26 info: [0mGET /api/v1/admin/auth/me [32m200[0m 99.489 ms - 253[0m
+2026-07-09 22:50:35 info: [0mGET /api/v1/farmer/profile [32m200[0m 96.023 ms - 209[0m
+2026-07-09 22:50:35 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [32m200[0m 776.087 ms - 190[0m
+2026-07-09 22:50:36 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [32m200[0m 781.573 ms - 126[0m
+2026-07-09 22:50:36 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [32m200[0m 799.924 ms - 175[0m
+2026-07-09 22:50:36 info: [0mGET /api/v1/farmer/dashboard [32m200[0m 1068.291 ms - 180[0m
+2026-07-09 22:50:57 info: [0mGET /api/v1/admin/auth/me [32m200[0m 87.359 ms - 253[0m
+2026-07-09 22:50:57 info: [0mGET /api/v1/admin/auth/me [32m200[0m 200.745 ms - 253[0m
+2026-07-09 22:51:06 info: [0mGET /api/v1/farmer/dashboard [32m200[0m 275.202 ms - 180[0m
+2026-07-09 22:51:06 info: [0mGET /api/v1/farmer/profile [32m200[0m 650.809 ms - 209[0m
+2026-07-09 22:51:06 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [32m200[0m 651.341 ms - 126[0m
+2026-07-09 22:51:07 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [32m200[0m 728.992 ms - 190[0m
+2026-07-09 22:51:07 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [32m200[0m 816.694 ms - 175[0m
+2026-07-09 22:51:48 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [32m200[0m 677.221 ms - 126[0m
+2026-07-09 22:51:53 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [32m200[0m 167.006 ms - 175[0m
+2026-07-09 22:51:54 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [32m200[0m 707.676 ms - 190[0m
+2026-07-09 22:52:40 info: [0mPOST /api/v1/admin/auth/login [32m200[0m 1403.612 ms - 735[0m
+2026-07-09 22:52:40 info: [0mGET /api/v1/farmer/profile [32m200[0m 77.938 ms - 209[0m
+2026-07-09 22:52:41 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [32m200[0m 562.787 ms - 126[0m
+2026-07-09 22:52:41 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [32m200[0m 610.674 ms - 190[0m
+2026-07-09 22:52:41 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [32m200[0m 706.753 ms - 175[0m
+2026-07-09 22:52:41 info: [0mGET /api/v1/farmer/dashboard [32m200[0m 808.430 ms - 180[0m
+2026-07-09 22:52:47 info: [0mPOST /api/v1/admin/auth/logout [32m200[0m 71.781 ms - 127[0m
+2026-07-09 22:53:53 info: [0mPOST /api/v1/admin/auth/register [32m201[0m 1416.416 ms - 737[0m
+2026-07-09 22:53:54 info: [0mGET /api/v1/driver/dashboard [32m200[0m 883.187 ms - 737[0m
+2026-07-09 22:54:01 info: [0mGET /api/v1/admin/auth/me [32m200[0m 93.276 ms - 243[0m
+2026-07-09 22:54:01 info: [0mGET /api/v1/admin/auth/me [32m200[0m 102.393 ms - 243[0m
+2026-07-09 22:54:01 info: [0mGET /api/v1/driver/dashboard [32m200[0m 191.237 ms - 737[0m
+2026-07-09 22:54:02 info: [0mGET /api/v1/admin/auth/me [32m200[0m 70.752 ms - 243[0m
+2026-07-09 22:54:02 info: [0mGET /api/v1/admin/auth/me [32m200[0m 44.804 ms - 243[0m
+2026-07-09 22:54:02 info: [0mGET /api/v1/driver/dashboard [32m200[0m 151.665 ms - 737[0m
+2026-07-09 22:54:04 info: [0mGET /api/v1/admin/auth/me [32m200[0m 78.858 ms - 243[0m
+2026-07-09 22:54:04 info: [0mGET /api/v1/admin/auth/me [32m200[0m 73.695 ms - 243[0m
+2026-07-09 22:54:04 info: [0mGET /api/v1/driver/dashboard [32m200[0m 164.980 ms - 737[0m
+2026-07-09 22:54:06 info: [0mGET /api/v1/admin/auth/me [32m200[0m 107.003 ms - 243[0m
+2026-07-09 22:54:06 info: [0mGET /api/v1/admin/auth/me [32m200[0m 97.763 ms - 243[0m
+2026-07-09 22:54:06 info: [0mGET /api/v1/driver/dashboard [32m200[0m 191.977 ms - 737[0m
+2026-07-09 22:54:07 info: [0mGET /api/v1/admin/auth/me [32m200[0m 74.913 ms - 243[0m
+2026-07-09 22:54:07 info: [0mGET /api/v1/admin/auth/me [32m200[0m 69.889 ms - 243[0m
+2026-07-09 22:54:08 info: [0mGET /api/v1/driver/dashboard [32m200[0m 183.304 ms - 737[0m
+2026-07-09 22:54:09 info: [0mGET /api/v1/admin/auth/me [32m200[0m 99.806 ms - 243[0m
+2026-07-09 22:54:09 info: [0mGET /api/v1/admin/auth/me [32m200[0m 71.192 ms - 243[0m
+2026-07-09 22:54:09 info: [0mGET /api/v1/driver/dashboard [32m200[0m 164.570 ms - 737[0m
+2026-07-09 22:54:11 info: [0mGET /api/v1/admin/auth/me [32m200[0m 65.690 ms - 243[0m
+2026-07-09 22:54:11 info: [0mGET /api/v1/admin/auth/me [32m200[0m 67.974 ms - 243[0m
+2026-07-09 22:54:11 info: [0mGET /api/v1/driver/dashboard [32m200[0m 188.797 ms - 737[0m
+2026-07-09 22:55:40 info: 
+🛑 Received SIGINT. Shutting down gracefully…
+2026-07-09 22:56:37 info: ✓ dotenv loaded
+2026-07-09 22:56:37 info: ✓ DATABASE_URL found
+2026-07-09 22:56:37 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 22:56:37 info:   KrishiLink API — Starting Up
+2026-07-09 22:56:37 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 22:56:37 info: ✓ Environment   : development
+2026-07-09 22:56:37 info: ✓ Environment variables loaded
+2026-07-09 22:56:37 info: ✓ Supabase PostgreSQL configuration loaded
+2026-07-09 22:56:37 info: ✓ Connecting to Supabase...
+2026-07-09 22:56:38 info: ✓ Connected
+2026-07-09 22:56:38 info: ✓ Database connected
+2026-07-09 22:56:38 warn: ⚠️  Port 3000 is already in use. Finding next available port…
+2026-07-09 22:56:38 warn: ⚠️  Switching to port 3001. Set PORT=3001 in .env to make permanent.
+2026-07-09 22:56:38 info: ✓ Server listening on PORT 3001
+2026-07-09 22:56:38 info: ✓ API Base URL  : http://localhost:3001/api/v1
+2026-07-09 22:56:38 info: ✓ Swagger Docs  : http://localhost:3001/api-docs
+2026-07-09 22:56:38 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 22:56:59 info: [0mGET /api/v1/admin/auth/me [32m200[0m 506.008 ms - 243[0m
+2026-07-09 22:56:59 info: [0mGET /api/v1/admin/auth/me [32m200[0m 77.477 ms - 243[0m
+2026-07-09 22:57:13 info: [0mGET /api/v1/driver/dashboard [32m200[0m 868.739 ms - 737[0m
+2026-07-09 22:57:17 info: [0mGET /api/v1/bookings?page=1&limit=10 [32m200[0m 175.795 ms - 173[0m
+2026-07-09 22:57:19 info: [0mGET /api/v1/return-trips/suggestions?status=pending&page=1&limit=10 [33m400[0m 2.858 ms - 136[0m
+2026-07-09 22:57:19 info: [0mGET /api/v1/return-trips/availability [32m200[0m 87.734 ms - 146[0m
+2026-07-09 22:57:20 info: [0mGET /api/v1/return-trips/suggestions?status=pending&page=1&limit=10 [33m400[0m 0.563 ms - 136[0m
+2026-07-09 23:00:01 info: 
+🛑 Received SIGINT. Shutting down gracefully…
+2026-07-09 23:03:23 info: ✓ dotenv loaded
+2026-07-09 23:03:23 info: ✓ DATABASE_URL found
+2026-07-09 23:03:24 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 23:03:24 info:   KrishiLink API — Starting Up
+2026-07-09 23:03:24 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 23:03:24 info: ✓ Environment   : development
+2026-07-09 23:03:24 info: ✓ Environment variables loaded
+2026-07-09 23:03:24 info: ✓ Supabase PostgreSQL configuration loaded
+2026-07-09 23:03:24 info: ✓ Connecting to Supabase...
+2026-07-09 23:03:24 info: ✓ Connected
+2026-07-09 23:03:24 info: ✓ Database connected
+2026-07-09 23:03:24 warn: ⚠️  Port 3000 is already in use. Finding next available port…
+2026-07-09 23:03:24 warn: ⚠️  Switching to port 3001. Set PORT=3001 in .env to make permanent.
+2026-07-09 23:03:24 info: ✓ Server listening on PORT 3001
+2026-07-09 23:03:24 info: ✓ API Base URL  : http://localhost:3001/api/v1
+2026-07-09 23:03:24 info: ✓ Swagger Docs  : http://localhost:3001/api-docs
+2026-07-09 23:03:24 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 23:03:39 info: [0mGET /api/v1/admin/auth/me [32m200[0m 649.828 ms - 253[0m
+2026-07-09 23:03:39 info: [0mGET /api/v1/admin/auth/me [32m200[0m 50.647 ms - 253[0m
+2026-07-09 23:03:46 info: [0mGET /api/v1/farmer/profile [32m200[0m 85.186 ms - 209[0m
+2026-07-09 23:03:47 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [32m200[0m 564.353 ms - 126[0m
+2026-07-09 23:03:47 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [32m200[0m 610.952 ms - 190[0m
+2026-07-09 23:03:47 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [32m200[0m 661.369 ms - 175[0m
+2026-07-09 23:03:47 info: [0mGET /api/v1/farmer/dashboard [32m200[0m 808.565 ms - 180[0m
+2026-07-09 23:03:58 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [32m200[0m 90.012 ms - 126[0m
+2026-07-09 23:04:51 info: [0mGET /api/v1/farmer/estimate-cost?start_location=tamil+nadu&end_location=jummu&cargo_weight_kg=2999.99&vehicle_type=truck [32m200[0m 0.723 ms - 106[0m
+2026-07-09 23:04:56 info: [0mGET /api/v1/farmer/estimate-cost?start_location=tamil+nadu&end_location=jummu&cargo_weight_kg=2999.99&vehicle_type=truck [33m401[0m 1.132 ms - 116[0m
+2026-07-09 23:04:56 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.217 ms - 118[0m
+2026-07-09 23:04:56 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.242 ms - 118[0m
+2026-07-09 23:04:56 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.406 ms - 118[0m
+2026-07-09 23:04:56 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.856 ms - 118[0m
+2026-07-09 23:04:56 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.208 ms - 118[0m
+2026-07-09 23:04:57 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.257 ms - 118[0m
+2026-07-09 23:04:57 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.197 ms - 118[0m
+2026-07-09 23:04:57 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.256 ms - 118[0m
+2026-07-09 23:04:57 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.298 ms - 118[0m
+2026-07-09 23:04:57 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.272 ms - 118[0m
+2026-07-09 23:04:57 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.304 ms - 118[0m
+2026-07-09 23:04:57 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.181 ms - 118[0m
+2026-07-09 23:04:57 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.193 ms - 118[0m
+2026-07-09 23:04:57 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.339 ms - 118[0m
+2026-07-09 23:04:57 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.271 ms - 118[0m
+2026-07-09 23:04:57 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.206 ms - 118[0m
+2026-07-09 23:04:57 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.249 ms - 118[0m
+2026-07-09 23:04:57 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.308 ms - 118[0m
+2026-07-09 23:04:57 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.225 ms - 118[0m
+2026-07-09 23:04:57 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.300 ms - 118[0m
+2026-07-09 23:04:57 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.250 ms - 118[0m
+2026-07-09 23:04:57 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.221 ms - 118[0m
+2026-07-09 23:04:57 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.303 ms - 118[0m
+2026-07-09 23:04:57 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.214 ms - 118[0m
+2026-07-09 23:04:57 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.210 ms - 118[0m
+2026-07-09 23:04:57 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.228 ms - 118[0m
+2026-07-09 23:04:57 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.191 ms - 118[0m
+2026-07-09 23:04:57 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.178 ms - 118[0m
+2026-07-09 23:04:57 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.282 ms - 118[0m
+2026-07-09 23:04:57 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.921 ms - 118[0m
+2026-07-09 23:04:58 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.271 ms - 118[0m
+2026-07-09 23:04:58 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.171 ms - 118[0m
+2026-07-09 23:04:58 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.212 ms - 118[0m
+2026-07-09 23:04:58 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.271 ms - 118[0m
+2026-07-09 23:04:58 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.308 ms - 118[0m
+2026-07-09 23:04:58 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.156 ms - 118[0m
+2026-07-09 23:04:58 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.107 ms - 118[0m
+2026-07-09 23:04:58 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.129 ms - 118[0m
+2026-07-09 23:04:58 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.243 ms - 118[0m
+2026-07-09 23:04:58 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.820 ms - 118[0m
+2026-07-09 23:04:58 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.237 ms - 118[0m
+2026-07-09 23:04:58 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.171 ms - 118[0m
+2026-07-09 23:04:58 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.231 ms - 118[0m
+2026-07-09 23:04:58 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.320 ms - 118[0m
+2026-07-09 23:04:58 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.214 ms - 118[0m
+2026-07-09 23:04:58 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.198 ms - 118[0m
+2026-07-09 23:04:58 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.174 ms - 118[0m
+2026-07-09 23:04:58 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.198 ms - 118[0m
+2026-07-09 23:04:58 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.286 ms - 118[0m
+2026-07-09 23:04:58 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.601 ms - 118[0m
+2026-07-09 23:04:58 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.227 ms - 118[0m
+2026-07-09 23:04:58 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.192 ms - 118[0m
+2026-07-09 23:04:58 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.222 ms - 118[0m
+2026-07-09 23:04:58 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.237 ms - 118[0m
+2026-07-09 23:04:58 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.254 ms - 118[0m
+2026-07-09 23:04:59 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.256 ms - 118[0m
+2026-07-09 23:04:59 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.188 ms - 118[0m
+2026-07-09 23:04:59 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.492 ms - 118[0m
+2026-07-09 23:04:59 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.375 ms - 118[0m
+2026-07-09 23:04:59 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.262 ms - 118[0m
+2026-07-09 23:04:59 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.192 ms - 118[0m
+2026-07-09 23:04:59 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.324 ms - 118[0m
+2026-07-09 23:04:59 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.252 ms - 118[0m
+2026-07-09 23:04:59 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.336 ms - 118[0m
+2026-07-09 23:04:59 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.231 ms - 118[0m
+2026-07-09 23:04:59 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.194 ms - 118[0m
+2026-07-09 23:04:59 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.154 ms - 118[0m
+2026-07-09 23:04:59 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.184 ms - 118[0m
+2026-07-09 23:04:59 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.213 ms - 118[0m
+2026-07-09 23:04:59 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.243 ms - 118[0m
+2026-07-09 23:04:59 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.243 ms - 118[0m
+2026-07-09 23:04:59 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.219 ms - 118[0m
+2026-07-09 23:04:59 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.247 ms - 118[0m
+2026-07-09 23:04:59 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.294 ms - 118[0m
+2026-07-09 23:04:59 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.292 ms - 118[0m
+2026-07-09 23:04:59 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.186 ms - 118[0m
+2026-07-09 23:04:59 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.195 ms - 118[0m
+2026-07-09 23:04:59 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.174 ms - 118[0m
+2026-07-09 23:04:59 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.296 ms - 118[0m
+2026-07-09 23:04:59 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.195 ms - 118[0m
+2026-07-09 23:05:00 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.285 ms - 118[0m
+2026-07-09 23:05:00 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.202 ms - 118[0m
+2026-07-09 23:05:00 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.283 ms - 118[0m
+2026-07-09 23:05:00 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.345 ms - 118[0m
+2026-07-09 23:05:00 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.199 ms - 118[0m
+2026-07-09 23:05:00 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.558 ms - 118[0m
+2026-07-09 23:05:00 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.258 ms - 118[0m
+2026-07-09 23:05:00 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.199 ms - 118[0m
+2026-07-09 23:05:00 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.209 ms - 118[0m
+2026-07-09 23:05:00 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.217 ms - 118[0m
+2026-07-09 23:05:00 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.198 ms - 118[0m
+2026-07-09 23:05:00 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.186 ms - 118[0m
+2026-07-09 23:05:00 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.181 ms - 118[0m
+2026-07-09 23:05:00 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.296 ms - 118[0m
+2026-07-09 23:05:00 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.235 ms - 118[0m
+2026-07-09 23:05:00 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.279 ms - 118[0m
+2026-07-09 23:05:00 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.159 ms - 118[0m
+2026-07-09 23:05:00 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.242 ms - 118[0m
+2026-07-09 23:07:00 info: ✓ dotenv loaded
+2026-07-09 23:07:00 info: ✓ DATABASE_URL found
+2026-07-09 23:07:00 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 23:07:00 info:   KrishiLink API — Starting Up
+2026-07-09 23:07:00 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 23:07:00 info: ✓ Environment   : development
+2026-07-09 23:07:00 info: ✓ Environment variables loaded
+2026-07-09 23:07:00 info: ✓ Supabase PostgreSQL configuration loaded
+2026-07-09 23:07:00 info: ✓ Connecting to Supabase...
+2026-07-09 23:07:00 info: ✓ dotenv loaded
+2026-07-09 23:07:00 info: ✓ DATABASE_URL found
+2026-07-09 23:07:00 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 23:07:00 info:   KrishiLink API — Starting Up
+2026-07-09 23:07:00 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 23:07:00 info: ✓ Environment   : development
+2026-07-09 23:07:00 info: ✓ Environment variables loaded
+2026-07-09 23:07:00 info: ✓ Supabase PostgreSQL configuration loaded
+2026-07-09 23:07:00 info: ✓ Connecting to Supabase...
+2026-07-09 23:07:01 info: ✓ Connected
+2026-07-09 23:07:01 info: ✓ Database connected
+2026-07-09 23:07:01 info: ✓ Server listening on PORT 3000
+2026-07-09 23:07:01 info: ✓ API Base URL  : http://localhost:3000/api/v1
+2026-07-09 23:07:01 info: ✓ Swagger Docs  : http://localhost:3000/api-docs
+2026-07-09 23:07:01 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 23:07:01 info: ✓ Connected
+2026-07-09 23:07:01 info: ✓ Database connected
+2026-07-09 23:07:01 warn: ⚠️  Port 3000 is already in use. Finding next available port…
+2026-07-09 23:07:01 warn: ⚠️  Switching to port 3001. Set PORT=3001 in .env to make permanent.
+2026-07-09 23:07:01 info: ✓ Server listening on PORT 3001
+2026-07-09 23:07:01 info: ✓ API Base URL  : http://localhost:3001/api/v1
+2026-07-09 23:07:01 info: ✓ Swagger Docs  : http://localhost:3001/api-docs
+2026-07-09 23:07:01 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 23:07:34 info: ✓ dotenv loaded
+2026-07-09 23:07:34 info: ✓ DATABASE_URL found
+2026-07-09 23:07:34 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 23:07:34 info:   KrishiLink API — Starting Up
+2026-07-09 23:07:34 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 23:07:34 info: ✓ Environment   : development
+2026-07-09 23:07:34 info: ✓ Environment variables loaded
+2026-07-09 23:07:34 info: ✓ Supabase PostgreSQL configuration loaded
+2026-07-09 23:07:34 info: ✓ Connecting to Supabase...
+2026-07-09 23:07:35 info: ✓ Connected
+2026-07-09 23:07:35 info: ✓ Database connected
+2026-07-09 23:07:35 info: ✓ Server listening on PORT 3000
+2026-07-09 23:07:35 info: ✓ API Base URL  : http://localhost:3000/api/v1
+2026-07-09 23:07:35 info: ✓ Swagger Docs  : http://localhost:3000/api-docs
+2026-07-09 23:07:35 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 23:08:18 info: ✓ dotenv loaded
+2026-07-09 23:08:18 info: ✓ DATABASE_URL found
+2026-07-09 23:08:18 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 23:08:18 info:   KrishiLink API — Starting Up
+2026-07-09 23:08:18 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 23:08:18 info: ✓ Environment   : development
+2026-07-09 23:08:18 info: ✓ Environment variables loaded
+2026-07-09 23:08:18 info: ✓ Supabase PostgreSQL configuration loaded
+2026-07-09 23:08:18 info: ✓ Connecting to Supabase...
+2026-07-09 23:08:19 info: ✓ Connected
+2026-07-09 23:08:19 info: ✓ Database connected
+2026-07-09 23:08:19 warn: ⚠️  Port 3000 is already in use. Finding next available port…
+2026-07-09 23:08:19 warn: ⚠️  Switching to port 3001. Set PORT=3001 in .env to make permanent.
+2026-07-09 23:08:19 info: ✓ Server listening on PORT 3001
+2026-07-09 23:08:19 info: ✓ API Base URL  : http://localhost:3001/api/v1
+2026-07-09 23:08:19 info: ✓ Swagger Docs  : http://localhost:3001/api-docs
+2026-07-09 23:08:19 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 23:08:38 info: [0mGET /api/v1/farmer/profile [33m401[0m 4.138 ms - 118[0m
+2026-07-09 23:08:38 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.787 ms - 118[0m
+2026-07-09 23:08:38 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.483 ms - 118[0m
+2026-07-09 23:08:38 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.976 ms - 118[0m
+2026-07-09 23:08:38 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.387 ms - 118[0m
+2026-07-09 23:08:38 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.349 ms - 118[0m
+2026-07-09 23:08:38 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.313 ms - 118[0m
+2026-07-09 23:08:38 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.504 ms - 118[0m
+2026-07-09 23:08:38 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.382 ms - 118[0m
+2026-07-09 23:08:38 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.427 ms - 118[0m
+2026-07-09 23:08:38 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.231 ms - 118[0m
+2026-07-09 23:08:38 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.218 ms - 118[0m
+2026-07-09 23:08:38 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.252 ms - 118[0m
+2026-07-09 23:08:38 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.304 ms - 118[0m
+2026-07-09 23:08:38 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.279 ms - 118[0m
+2026-07-09 23:08:38 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.270 ms - 118[0m
+2026-07-09 23:08:38 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.516 ms - 118[0m
+2026-07-09 23:08:38 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.314 ms - 118[0m
+2026-07-09 23:08:38 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.596 ms - 118[0m
+2026-07-09 23:08:38 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.209 ms - 118[0m
+2026-07-09 23:08:39 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.354 ms - 118[0m
+2026-07-09 23:08:39 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.313 ms - 118[0m
+2026-07-09 23:08:39 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.414 ms - 118[0m
+2026-07-09 23:08:39 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.253 ms - 118[0m
+2026-07-09 23:08:39 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.239 ms - 118[0m
+2026-07-09 23:08:39 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.186 ms - 118[0m
+2026-07-09 23:08:39 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.207 ms - 118[0m
+2026-07-09 23:08:39 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.251 ms - 118[0m
+2026-07-09 23:08:39 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 1.952 ms - 118[0m
+2026-07-09 23:08:39 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.760 ms - 118[0m
+2026-07-09 23:08:39 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.226 ms - 118[0m
+2026-07-09 23:08:39 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.195 ms - 118[0m
+2026-07-09 23:08:39 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.207 ms - 118[0m
+2026-07-09 23:08:39 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.780 ms - 118[0m
+2026-07-09 23:08:39 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.406 ms - 118[0m
+2026-07-09 23:08:39 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.175 ms - 118[0m
+2026-07-09 23:08:39 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.152 ms - 118[0m
+2026-07-09 23:08:39 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.282 ms - 118[0m
+2026-07-09 23:08:39 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.327 ms - 118[0m
+2026-07-09 23:08:39 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.193 ms - 118[0m
+2026-07-09 23:08:39 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.277 ms - 118[0m
+2026-07-09 23:08:39 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.163 ms - 118[0m
+2026-07-09 23:08:39 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.239 ms - 118[0m
+2026-07-09 23:08:39 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.168 ms - 118[0m
+2026-07-09 23:08:39 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.210 ms - 118[0m
+2026-07-09 23:08:40 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.223 ms - 118[0m
+2026-07-09 23:08:40 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.200 ms - 118[0m
+2026-07-09 23:08:40 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.165 ms - 118[0m
+2026-07-09 23:08:40 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.218 ms - 118[0m
+2026-07-09 23:08:40 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.279 ms - 118[0m
+2026-07-09 23:08:40 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.187 ms - 118[0m
+2026-07-09 23:08:40 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.250 ms - 118[0m
+2026-07-09 23:08:40 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.222 ms - 118[0m
+2026-07-09 23:08:40 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 4.121 ms - 118[0m
+2026-07-09 23:08:40 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.285 ms - 118[0m
+2026-07-09 23:08:40 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.171 ms - 118[0m
+2026-07-09 23:08:40 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.437 ms - 118[0m
+2026-07-09 23:08:40 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.344 ms - 118[0m
+2026-07-09 23:08:40 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.227 ms - 118[0m
+2026-07-09 23:08:40 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.231 ms - 118[0m
+2026-07-09 23:08:40 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.281 ms - 118[0m
+2026-07-09 23:08:40 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.254 ms - 118[0m
+2026-07-09 23:08:40 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.281 ms - 118[0m
+2026-07-09 23:08:40 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.365 ms - 118[0m
+2026-07-09 23:08:40 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.218 ms - 118[0m
+2026-07-09 23:08:40 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.192 ms - 118[0m
+2026-07-09 23:08:40 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.177 ms - 118[0m
+2026-07-09 23:08:40 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.191 ms - 118[0m
+2026-07-09 23:08:40 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.233 ms - 118[0m
+2026-07-09 23:08:40 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.275 ms - 118[0m
+2026-07-09 23:08:40 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.341 ms - 118[0m
+2026-07-09 23:08:40 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.194 ms - 118[0m
+2026-07-09 23:08:40 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.230 ms - 118[0m
+2026-07-09 23:08:40 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.221 ms - 118[0m
+2026-07-09 23:08:40 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.165 ms - 118[0m
+2026-07-09 23:08:41 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.166 ms - 118[0m
+2026-07-09 23:08:41 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.137 ms - 118[0m
+2026-07-09 23:08:41 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.262 ms - 118[0m
+2026-07-09 23:08:41 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.258 ms - 118[0m
+2026-07-09 23:08:41 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.395 ms - 118[0m
+2026-07-09 23:08:41 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.206 ms - 118[0m
+2026-07-09 23:08:41 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.262 ms - 118[0m
+2026-07-09 23:08:41 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.293 ms - 118[0m
+2026-07-09 23:08:41 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.382 ms - 118[0m
+2026-07-09 23:08:41 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.289 ms - 118[0m
+2026-07-09 23:08:41 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.276 ms - 118[0m
+2026-07-09 23:08:41 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.320 ms - 118[0m
+2026-07-09 23:08:41 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.188 ms - 118[0m
+2026-07-09 23:08:41 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.217 ms - 118[0m
+2026-07-09 23:08:41 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.222 ms - 118[0m
+2026-07-09 23:08:41 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.137 ms - 118[0m
+2026-07-09 23:08:41 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.107 ms - 118[0m
+2026-07-09 23:08:41 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.219 ms - 118[0m
+2026-07-09 23:08:41 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.295 ms - 118[0m
+2026-07-09 23:08:41 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.256 ms - 118[0m
+2026-07-09 23:08:41 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.188 ms - 118[0m
+2026-07-09 23:08:41 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.153 ms - 118[0m
+2026-07-09 23:08:41 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.164 ms - 118[0m
+2026-07-09 23:08:41 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.191 ms - 118[0m
+2026-07-09 23:08:41 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.247 ms - 118[0m
+2026-07-09 23:08:42 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.174 ms - 118[0m
+2026-07-09 23:08:42 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.154 ms - 118[0m
+2026-07-09 23:08:42 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.257 ms - 118[0m
+2026-07-09 23:08:42 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.244 ms - 118[0m
+2026-07-09 23:08:42 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.237 ms - 118[0m
+2026-07-09 23:08:42 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.184 ms - 118[0m
+2026-07-09 23:08:42 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.149 ms - 118[0m
+2026-07-09 23:08:42 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.181 ms - 118[0m
+2026-07-09 23:08:42 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.206 ms - 118[0m
+2026-07-09 23:08:42 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.447 ms - 118[0m
+2026-07-09 23:08:42 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.204 ms - 118[0m
+2026-07-09 23:08:42 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.182 ms - 118[0m
+2026-07-09 23:08:42 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.183 ms - 118[0m
+2026-07-09 23:08:42 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.282 ms - 118[0m
+2026-07-09 23:08:42 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.534 ms - 118[0m
+2026-07-09 23:08:42 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.185 ms - 118[0m
+2026-07-09 23:08:42 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.147 ms - 118[0m
+2026-07-09 23:08:42 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.178 ms - 118[0m
+2026-07-09 23:08:42 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.250 ms - 118[0m
+2026-07-09 23:08:42 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.223 ms - 118[0m
+2026-07-09 23:08:42 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.166 ms - 118[0m
+2026-07-09 23:08:42 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.461 ms - 118[0m
+2026-07-09 23:08:42 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.192 ms - 118[0m
+2026-07-09 23:08:42 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.249 ms - 118[0m
+2026-07-09 23:08:42 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.226 ms - 118[0m
+2026-07-09 23:08:43 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.187 ms - 118[0m
+2026-07-09 23:08:43 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.165 ms - 118[0m
+2026-07-09 23:08:43 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.416 ms - 118[0m
+2026-07-09 23:08:43 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.460 ms - 118[0m
+2026-07-09 23:08:43 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.199 ms - 118[0m
+2026-07-09 23:08:43 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.231 ms - 118[0m
+2026-07-09 23:08:43 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.204 ms - 118[0m
+2026-07-09 23:08:43 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.392 ms - 118[0m
+2026-07-09 23:08:43 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.344 ms - 118[0m
+2026-07-09 23:08:43 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.254 ms - 118[0m
+2026-07-09 23:08:43 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.192 ms - 118[0m
+2026-07-09 23:08:43 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.168 ms - 118[0m
+2026-07-09 23:08:43 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.179 ms - 118[0m
+2026-07-09 23:08:43 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.184 ms - 118[0m
+2026-07-09 23:08:43 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.281 ms - 118[0m
+2026-07-09 23:08:43 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.207 ms - 118[0m
+2026-07-09 23:08:43 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.161 ms - 118[0m
+2026-07-09 23:08:43 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.179 ms - 118[0m
+2026-07-09 23:08:43 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.262 ms - 118[0m
+2026-07-09 23:08:43 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.307 ms - 118[0m
+2026-07-09 23:08:43 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.185 ms - 118[0m
+2026-07-09 23:08:43 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.141 ms - 118[0m
+2026-07-09 23:08:43 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.163 ms - 118[0m
+2026-07-09 23:08:43 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.325 ms - 118[0m
+2026-07-09 23:08:43 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.245 ms - 118[0m
+2026-07-09 23:08:44 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.192 ms - 118[0m
+2026-07-09 23:08:44 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.137 ms - 118[0m
+2026-07-09 23:08:44 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.202 ms - 118[0m
+2026-07-09 23:08:44 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.187 ms - 118[0m
+2026-07-09 23:08:44 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.356 ms - 118[0m
+2026-07-09 23:08:44 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.295 ms - 118[0m
+2026-07-09 23:08:44 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.190 ms - 118[0m
+2026-07-09 23:08:44 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.207 ms - 118[0m
+2026-07-09 23:08:44 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.158 ms - 118[0m
+2026-07-09 23:08:44 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.187 ms - 118[0m
+2026-07-09 23:08:44 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.185 ms - 118[0m
+2026-07-09 23:08:44 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.159 ms - 118[0m
+2026-07-09 23:08:44 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.177 ms - 118[0m
+2026-07-09 23:08:44 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.223 ms - 118[0m
+2026-07-09 23:08:44 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.419 ms - 118[0m
+2026-07-09 23:08:44 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.234 ms - 118[0m
+2026-07-09 23:08:44 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.236 ms - 118[0m
+2026-07-09 23:08:44 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.225 ms - 118[0m
+2026-07-09 23:08:44 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.243 ms - 118[0m
+2026-07-09 23:08:44 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.170 ms - 118[0m
+2026-07-09 23:08:44 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.370 ms - 118[0m
+2026-07-09 23:08:44 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.211 ms - 118[0m
+2026-07-09 23:08:44 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.441 ms - 118[0m
+2026-07-09 23:08:44 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.378 ms - 118[0m
+2026-07-09 23:08:44 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.210 ms - 118[0m
+2026-07-09 23:08:44 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.570 ms - 118[0m
+2026-07-09 23:08:44 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.267 ms - 118[0m
+2026-07-09 23:08:44 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.229 ms - 118[0m
+2026-07-09 23:08:44 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.209 ms - 118[0m
+2026-07-09 23:08:44 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.203 ms - 118[0m
+2026-07-09 23:08:45 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.315 ms - 118[0m
+2026-07-09 23:08:45 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.309 ms - 118[0m
+2026-07-09 23:08:45 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.268 ms - 118[0m
+2026-07-09 23:08:45 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.220 ms - 118[0m
+2026-07-09 23:08:45 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.265 ms - 118[0m
+2026-07-09 23:08:45 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.196 ms - 118[0m
+2026-07-09 23:08:45 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.223 ms - 118[0m
+2026-07-09 23:08:45 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.600 ms - 118[0m
+2026-07-09 23:08:45 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.228 ms - 118[0m
+2026-07-09 23:08:45 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.271 ms - 118[0m
+2026-07-09 23:08:45 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.176 ms - 118[0m
+2026-07-09 23:08:45 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.179 ms - 118[0m
+2026-07-09 23:08:45 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.205 ms - 118[0m
+2026-07-09 23:08:45 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.258 ms - 118[0m
+2026-07-09 23:08:45 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.128 ms - 118[0m
+2026-07-09 23:08:45 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.210 ms - 118[0m
+2026-07-09 23:08:45 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.179 ms - 118[0m
+2026-07-09 23:08:45 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.192 ms - 118[0m
+2026-07-09 23:08:45 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.278 ms - 118[0m
+2026-07-09 23:08:45 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.236 ms - 118[0m
+2026-07-09 23:08:45 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.190 ms - 118[0m
+2026-07-09 23:08:45 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.238 ms - 118[0m
+2026-07-09 23:08:45 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.224 ms - 118[0m
+2026-07-09 23:08:45 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.253 ms - 118[0m
+2026-07-09 23:08:45 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.202 ms - 118[0m
+2026-07-09 23:08:46 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.199 ms - 118[0m
+2026-07-09 23:08:46 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.117 ms - 118[0m
+2026-07-09 23:08:46 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.217 ms - 118[0m
+2026-07-09 23:08:46 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.353 ms - 118[0m
+2026-07-09 23:08:46 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.149 ms - 118[0m
+2026-07-09 23:08:46 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.232 ms - 118[0m
+2026-07-09 23:08:46 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.173 ms - 118[0m
+2026-07-09 23:08:46 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.215 ms - 118[0m
+2026-07-09 23:08:46 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.236 ms - 118[0m
+2026-07-09 23:08:46 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.468 ms - 118[0m
+2026-07-09 23:08:46 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.182 ms - 118[0m
+2026-07-09 23:08:46 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.216 ms - 118[0m
+2026-07-09 23:08:46 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.241 ms - 118[0m
+2026-07-09 23:08:46 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.315 ms - 118[0m
+2026-07-09 23:08:46 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.308 ms - 118[0m
+2026-07-09 23:08:46 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.180 ms - 118[0m
+2026-07-09 23:08:46 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.223 ms - 118[0m
+2026-07-09 23:08:46 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.193 ms - 118[0m
+2026-07-09 23:08:46 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.218 ms - 118[0m
+2026-07-09 23:08:46 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.194 ms - 118[0m
+2026-07-09 23:08:47 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.174 ms - 118[0m
+2026-07-09 23:08:47 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.137 ms - 118[0m
+2026-07-09 23:08:47 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.203 ms - 118[0m
+2026-07-09 23:08:47 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.229 ms - 118[0m
+2026-07-09 23:08:47 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.418 ms - 118[0m
+2026-07-09 23:08:47 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.197 ms - 118[0m
+2026-07-09 23:08:47 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.136 ms - 118[0m
+2026-07-09 23:08:47 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.195 ms - 118[0m
+2026-07-09 23:08:47 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.719 ms - 118[0m
+2026-07-09 23:08:47 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.296 ms - 118[0m
+2026-07-09 23:08:47 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.181 ms - 118[0m
+2026-07-09 23:08:47 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.167 ms - 118[0m
+2026-07-09 23:08:47 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.198 ms - 118[0m
+2026-07-09 23:08:47 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.182 ms - 118[0m
+2026-07-09 23:08:47 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.187 ms - 118[0m
+2026-07-09 23:08:47 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.283 ms - 118[0m
+2026-07-09 23:08:47 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.188 ms - 118[0m
+2026-07-09 23:08:47 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.178 ms - 118[0m
+2026-07-09 23:08:47 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.154 ms - 118[0m
+2026-07-09 23:08:47 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.266 ms - 118[0m
+2026-07-09 23:08:47 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.184 ms - 118[0m
+2026-07-09 23:08:47 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.233 ms - 118[0m
+2026-07-09 23:08:47 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.222 ms - 118[0m
+2026-07-09 23:08:47 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.470 ms - 118[0m
+2026-07-09 23:08:47 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.324 ms - 118[0m
+2026-07-09 23:08:48 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.183 ms - 118[0m
+2026-07-09 23:08:48 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.136 ms - 118[0m
+2026-07-09 23:08:48 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.243 ms - 118[0m
+2026-07-09 23:08:48 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.211 ms - 118[0m
+2026-07-09 23:08:48 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.244 ms - 118[0m
+2026-07-09 23:08:48 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.223 ms - 118[0m
+2026-07-09 23:08:48 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.168 ms - 118[0m
+2026-07-09 23:08:48 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.172 ms - 118[0m
+2026-07-09 23:08:48 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.195 ms - 118[0m
+2026-07-09 23:08:48 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.225 ms - 118[0m
+2026-07-09 23:08:48 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.203 ms - 118[0m
+2026-07-09 23:08:48 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.129 ms - 118[0m
+2026-07-09 23:08:48 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.190 ms - 118[0m
+2026-07-09 23:08:48 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.177 ms - 118[0m
+2026-07-09 23:08:48 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.203 ms - 118[0m
+2026-07-09 23:08:48 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.174 ms - 118[0m
+2026-07-09 23:08:48 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.163 ms - 118[0m
+2026-07-09 23:08:48 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.457 ms - 118[0m
+2026-07-09 23:08:48 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.357 ms - 118[0m
+2026-07-09 23:08:48 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.316 ms - 118[0m
+2026-07-09 23:08:48 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.160 ms - 118[0m
+2026-07-09 23:08:48 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.204 ms - 118[0m
+2026-07-09 23:08:48 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.216 ms - 118[0m
+2026-07-09 23:08:48 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.286 ms - 118[0m
+2026-07-09 23:08:48 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.249 ms - 118[0m
+2026-07-09 23:08:49 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.157 ms - 118[0m
+2026-07-09 23:08:49 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.125 ms - 118[0m
+2026-07-09 23:08:49 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.189 ms - 118[0m
+2026-07-09 23:08:49 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.251 ms - 118[0m
+2026-07-09 23:08:49 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.364 ms - 118[0m
+2026-07-09 23:08:49 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.169 ms - 118[0m
+2026-07-09 23:08:49 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.120 ms - 118[0m
+2026-07-09 23:08:49 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.205 ms - 118[0m
+2026-07-09 23:08:49 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.210 ms - 118[0m
+2026-07-09 23:08:49 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.230 ms - 118[0m
+2026-07-09 23:08:49 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.189 ms - 118[0m
+2026-07-09 23:08:49 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.187 ms - 118[0m
+2026-07-09 23:08:49 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.252 ms - 118[0m
+2026-07-09 23:08:49 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.189 ms - 118[0m
+2026-07-09 23:08:49 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.227 ms - 118[0m
+2026-07-09 23:08:49 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.190 ms - 118[0m
+2026-07-09 23:08:49 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.154 ms - 118[0m
+2026-07-09 23:08:49 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.173 ms - 118[0m
+2026-07-09 23:08:49 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.255 ms - 118[0m
+2026-07-09 23:08:49 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.207 ms - 118[0m
+2026-07-09 23:08:49 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.298 ms - 118[0m
+2026-07-09 23:08:49 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.192 ms - 118[0m
+2026-07-09 23:08:49 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.237 ms - 118[0m
+2026-07-09 23:08:49 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.239 ms - 118[0m
+2026-07-09 23:08:49 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.273 ms - 118[0m
+2026-07-09 23:08:50 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.188 ms - 118[0m
+2026-07-09 23:08:50 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.200 ms - 118[0m
+2026-07-09 23:08:50 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.194 ms - 118[0m
+2026-07-09 23:08:50 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.205 ms - 118[0m
+2026-07-09 23:08:50 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.162 ms - 118[0m
+2026-07-09 23:08:50 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.162 ms - 118[0m
+2026-07-09 23:08:50 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.182 ms - 118[0m
+2026-07-09 23:08:50 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.421 ms - 118[0m
+2026-07-09 23:08:50 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.232 ms - 118[0m
+2026-07-09 23:08:50 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.370 ms - 118[0m
+2026-07-09 23:08:50 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.162 ms - 118[0m
+2026-07-09 23:08:50 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.132 ms - 118[0m
+2026-07-09 23:08:50 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.263 ms - 118[0m
+2026-07-09 23:08:50 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.235 ms - 118[0m
+2026-07-09 23:08:50 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.247 ms - 118[0m
+2026-07-09 23:08:50 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.235 ms - 118[0m
+2026-07-09 23:08:50 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.179 ms - 118[0m
+2026-07-09 23:08:50 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.203 ms - 118[0m
+2026-07-09 23:08:50 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.136 ms - 118[0m
+2026-07-09 23:08:50 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.180 ms - 118[0m
+2026-07-09 23:08:50 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.169 ms - 118[0m
+2026-07-09 23:08:50 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.130 ms - 118[0m
+2026-07-09 23:08:50 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.173 ms - 118[0m
+2026-07-09 23:08:50 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.210 ms - 118[0m
+2026-07-09 23:08:50 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.223 ms - 118[0m
+2026-07-09 23:08:51 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.297 ms - 118[0m
+2026-07-09 23:08:51 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.176 ms - 118[0m
+2026-07-09 23:08:51 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.210 ms - 118[0m
+2026-07-09 23:08:51 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.646 ms - 118[0m
+2026-07-09 23:08:51 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.415 ms - 118[0m
+2026-07-09 23:08:51 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.165 ms - 118[0m
+2026-07-09 23:08:51 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.120 ms - 118[0m
+2026-07-09 23:08:51 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.168 ms - 118[0m
+2026-07-09 23:08:51 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.179 ms - 118[0m
+2026-07-09 23:08:51 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.204 ms - 118[0m
+2026-07-09 23:08:51 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.260 ms - 118[0m
+2026-07-09 23:08:51 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.221 ms - 118[0m
+2026-07-09 23:08:51 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.153 ms - 118[0m
+2026-07-09 23:08:51 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.258 ms - 118[0m
+2026-07-09 23:08:51 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.145 ms - 118[0m
+2026-07-09 23:08:51 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.163 ms - 118[0m
+2026-07-09 23:08:51 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.130 ms - 118[0m
+2026-07-09 23:08:51 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.156 ms - 118[0m
+2026-07-09 23:08:51 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.185 ms - 118[0m
+2026-07-09 23:08:51 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.375 ms - 118[0m
+2026-07-09 23:08:51 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.190 ms - 118[0m
+2026-07-09 23:08:51 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.192 ms - 118[0m
+2026-07-09 23:08:51 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.192 ms - 118[0m
+2026-07-09 23:08:51 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.155 ms - 118[0m
+2026-07-09 23:08:51 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.210 ms - 118[0m
+2026-07-09 23:08:51 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.232 ms - 118[0m
+2026-07-09 23:08:51 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.145 ms - 118[0m
+2026-07-09 23:08:51 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.170 ms - 118[0m
+2026-07-09 23:08:51 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.252 ms - 118[0m
+2026-07-09 23:08:51 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.346 ms - 118[0m
+2026-07-09 23:08:52 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.565 ms - 118[0m
+2026-07-09 23:08:52 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.262 ms - 118[0m
+2026-07-09 23:08:52 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.257 ms - 118[0m
+2026-07-09 23:08:52 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.224 ms - 118[0m
+2026-07-09 23:08:52 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.222 ms - 118[0m
+2026-07-09 23:08:52 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.198 ms - 118[0m
+2026-07-09 23:08:52 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.142 ms - 118[0m
+2026-07-09 23:08:52 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.157 ms - 118[0m
+2026-07-09 23:08:52 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.196 ms - 118[0m
+2026-07-09 23:08:52 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.212 ms - 118[0m
+2026-07-09 23:08:52 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.208 ms - 118[0m
+2026-07-09 23:08:52 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.198 ms - 118[0m
+2026-07-09 23:08:52 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.181 ms - 118[0m
+2026-07-09 23:08:52 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.258 ms - 118[0m
+2026-07-09 23:08:52 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.331 ms - 118[0m
+2026-07-09 23:08:52 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.167 ms - 118[0m
+2026-07-09 23:08:52 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.139 ms - 118[0m
+2026-07-09 23:08:52 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.159 ms - 118[0m
+2026-07-09 23:08:52 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.204 ms - 118[0m
+2026-07-09 23:08:52 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.203 ms - 118[0m
+2026-07-09 23:08:52 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.171 ms - 118[0m
+2026-07-09 23:08:52 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.219 ms - 118[0m
+2026-07-09 23:08:52 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.299 ms - 118[0m
+2026-07-09 23:08:52 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.291 ms - 118[0m
+2026-07-09 23:08:52 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.202 ms - 118[0m
+2026-07-09 23:08:53 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.248 ms - 118[0m
+2026-07-09 23:08:53 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.134 ms - 118[0m
+2026-07-09 23:08:53 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.165 ms - 118[0m
+2026-07-09 23:08:53 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.207 ms - 118[0m
+2026-07-09 23:08:53 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.238 ms - 118[0m
+2026-07-09 23:08:53 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.173 ms - 118[0m
+2026-07-09 23:08:53 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.234 ms - 118[0m
+2026-07-09 23:08:53 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.324 ms - 118[0m
+2026-07-09 23:08:53 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.192 ms - 118[0m
+2026-07-09 23:08:53 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.219 ms - 118[0m
+2026-07-09 23:08:53 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.226 ms - 118[0m
+2026-07-09 23:08:53 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.187 ms - 118[0m
+2026-07-09 23:08:53 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.185 ms - 118[0m
+2026-07-09 23:08:53 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.200 ms - 118[0m
+2026-07-09 23:08:53 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.189 ms - 118[0m
+2026-07-09 23:08:53 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.191 ms - 118[0m
+2026-07-09 23:08:53 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.153 ms - 118[0m
+2026-07-09 23:08:53 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.163 ms - 118[0m
+2026-07-09 23:08:53 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.190 ms - 118[0m
+2026-07-09 23:08:53 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.356 ms - 118[0m
+2026-07-09 23:08:53 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.118 ms - 118[0m
+2026-07-09 23:08:53 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.145 ms - 118[0m
+2026-07-09 23:08:53 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.204 ms - 118[0m
+2026-07-09 23:08:53 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.220 ms - 118[0m
+2026-07-09 23:08:53 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.204 ms - 118[0m
+2026-07-09 23:08:54 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.159 ms - 118[0m
+2026-07-09 23:08:54 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.133 ms - 118[0m
+2026-07-09 23:08:54 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.176 ms - 118[0m
+2026-07-09 23:08:54 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.428 ms - 118[0m
+2026-07-09 23:08:54 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.305 ms - 118[0m
+2026-07-09 23:08:54 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.461 ms - 118[0m
+2026-07-09 23:08:54 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.205 ms - 118[0m
+2026-07-09 23:08:54 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.196 ms - 118[0m
+2026-07-09 23:08:54 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.182 ms - 118[0m
+2026-07-09 23:08:54 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.186 ms - 118[0m
+2026-07-09 23:08:54 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.267 ms - 118[0m
+2026-07-09 23:08:54 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.130 ms - 118[0m
+2026-07-09 23:08:54 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.398 ms - 118[0m
+2026-07-09 23:08:54 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.205 ms - 118[0m
+2026-07-09 23:08:54 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.249 ms - 118[0m
+2026-07-09 23:08:54 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.190 ms - 118[0m
+2026-07-09 23:08:54 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.169 ms - 118[0m
+2026-07-09 23:08:54 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.178 ms - 118[0m
+2026-07-09 23:08:54 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.190 ms - 118[0m
+2026-07-09 23:08:54 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.239 ms - 118[0m
+2026-07-09 23:08:55 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.181 ms - 118[0m
+2026-07-09 23:08:55 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.139 ms - 118[0m
+2026-07-09 23:08:55 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.160 ms - 118[0m
+2026-07-09 23:08:55 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.149 ms - 118[0m
+2026-07-09 23:08:55 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.237 ms - 118[0m
+2026-07-09 23:08:55 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.193 ms - 118[0m
+2026-07-09 23:08:55 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.147 ms - 118[0m
+2026-07-09 23:08:55 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.185 ms - 118[0m
+2026-07-09 23:08:55 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.308 ms - 118[0m
+2026-07-09 23:08:55 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.218 ms - 118[0m
+2026-07-09 23:08:55 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.168 ms - 118[0m
+2026-07-09 23:08:55 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.164 ms - 118[0m
+2026-07-09 23:08:55 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.198 ms - 118[0m
+2026-07-09 23:08:55 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.248 ms - 118[0m
+2026-07-09 23:08:55 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.459 ms - 118[0m
+2026-07-09 23:08:55 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.179 ms - 118[0m
+2026-07-09 23:08:55 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.180 ms - 118[0m
+2026-07-09 23:08:55 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.556 ms - 118[0m
+2026-07-09 23:08:55 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.236 ms - 118[0m
+2026-07-09 23:08:55 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.186 ms - 118[0m
+2026-07-09 23:08:55 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.229 ms - 118[0m
+2026-07-09 23:08:55 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.329 ms - 118[0m
+2026-07-09 23:08:55 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.175 ms - 118[0m
+2026-07-09 23:08:55 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.183 ms - 118[0m
+2026-07-09 23:08:55 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.204 ms - 118[0m
+2026-07-09 23:08:56 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.196 ms - 118[0m
+2026-07-09 23:08:56 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.133 ms - 118[0m
+2026-07-09 23:08:56 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.154 ms - 118[0m
+2026-07-09 23:08:56 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.180 ms - 118[0m
+2026-07-09 23:08:56 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.235 ms - 118[0m
+2026-07-09 23:08:56 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.193 ms - 118[0m
+2026-07-09 23:08:56 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.153 ms - 118[0m
+2026-07-09 23:08:56 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.195 ms - 118[0m
+2026-07-09 23:08:56 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.351 ms - 118[0m
+2026-07-09 23:08:56 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.358 ms - 118[0m
+2026-07-09 23:08:56 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.195 ms - 118[0m
+2026-07-09 23:08:56 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.156 ms - 118[0m
+2026-07-09 23:08:56 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.152 ms - 118[0m
+2026-07-09 23:08:56 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.150 ms - 118[0m
+2026-07-09 23:08:56 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.153 ms - 118[0m
+2026-07-09 23:08:56 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.209 ms - 118[0m
+2026-07-09 23:08:56 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.200 ms - 118[0m
+2026-07-09 23:08:56 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.222 ms - 118[0m
+2026-07-09 23:08:56 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.215 ms - 118[0m
+2026-07-09 23:08:56 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.222 ms - 118[0m
+2026-07-09 23:08:56 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.180 ms - 118[0m
+2026-07-09 23:08:56 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.146 ms - 118[0m
+2026-07-09 23:08:56 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.218 ms - 118[0m
+2026-07-09 23:08:56 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.366 ms - 118[0m
+2026-07-09 23:08:56 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.549 ms - 118[0m
+2026-07-09 23:08:56 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.158 ms - 118[0m
+2026-07-09 23:08:56 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.142 ms - 118[0m
+2026-07-09 23:08:56 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.180 ms - 118[0m
+2026-07-09 23:08:56 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.204 ms - 118[0m
+2026-07-09 23:08:56 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.478 ms - 118[0m
+2026-07-09 23:08:57 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.220 ms - 118[0m
+2026-07-09 23:08:57 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.152 ms - 118[0m
+2026-07-09 23:08:57 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.148 ms - 118[0m
+2026-07-09 23:08:57 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.188 ms - 118[0m
+2026-07-09 23:08:57 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.187 ms - 118[0m
+2026-07-09 23:08:57 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.199 ms - 118[0m
+2026-07-09 23:08:57 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.227 ms - 118[0m
+2026-07-09 23:08:57 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.149 ms - 118[0m
+2026-07-09 23:08:57 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.235 ms - 118[0m
+2026-07-09 23:08:57 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.317 ms - 118[0m
+2026-07-09 23:08:57 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.185 ms - 118[0m
+2026-07-09 23:08:57 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.138 ms - 118[0m
+2026-07-09 23:08:57 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.192 ms - 118[0m
+2026-07-09 23:08:57 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.220 ms - 118[0m
+2026-07-09 23:08:57 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.211 ms - 118[0m
+2026-07-09 23:08:57 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.162 ms - 118[0m
+2026-07-09 23:08:57 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.178 ms - 118[0m
+2026-07-09 23:08:57 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.220 ms - 118[0m
+2026-07-09 23:08:57 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.262 ms - 118[0m
+2026-07-09 23:08:57 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.216 ms - 118[0m
+2026-07-09 23:08:57 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.183 ms - 118[0m
+2026-07-09 23:08:57 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.150 ms - 118[0m
+2026-07-09 23:08:57 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.305 ms - 118[0m
+2026-07-09 23:08:57 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.232 ms - 118[0m
+2026-07-09 23:08:57 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.253 ms - 118[0m
+2026-07-09 23:08:58 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.167 ms - 118[0m
+2026-07-09 23:08:58 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.224 ms - 118[0m
+2026-07-09 23:08:58 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.242 ms - 118[0m
+2026-07-09 23:08:58 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.355 ms - 118[0m
+2026-07-09 23:08:58 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.489 ms - 118[0m
+2026-07-09 23:08:58 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.529 ms - 118[0m
+2026-07-09 23:08:58 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.169 ms - 118[0m
+2026-07-09 23:08:58 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.149 ms - 118[0m
+2026-07-09 23:08:58 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.223 ms - 118[0m
+2026-07-09 23:08:58 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.299 ms - 118[0m
+2026-07-09 23:08:58 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.203 ms - 118[0m
+2026-07-09 23:08:58 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.295 ms - 118[0m
+2026-07-09 23:08:58 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.318 ms - 118[0m
+2026-07-09 23:08:58 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.262 ms - 118[0m
+2026-07-09 23:08:58 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.384 ms - 118[0m
+2026-07-09 23:08:58 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.112 ms - 118[0m
+2026-07-09 23:08:58 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.148 ms - 118[0m
+2026-07-09 23:08:58 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.196 ms - 118[0m
+2026-07-09 23:08:58 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.277 ms - 118[0m
+2026-07-09 23:08:58 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.631 ms - 118[0m
+2026-07-09 23:08:58 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.236 ms - 118[0m
+2026-07-09 23:08:58 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.181 ms - 118[0m
+2026-07-09 23:08:58 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.235 ms - 118[0m
+2026-07-09 23:08:58 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.290 ms - 118[0m
+2026-07-09 23:08:58 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.377 ms - 118[0m
+2026-07-09 23:08:59 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.173 ms - 118[0m
+2026-07-09 23:08:59 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.176 ms - 118[0m
+2026-07-09 23:08:59 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.215 ms - 118[0m
+2026-07-09 23:08:59 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.261 ms - 118[0m
+2026-07-09 23:08:59 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.234 ms - 118[0m
+2026-07-09 23:08:59 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.216 ms - 118[0m
+2026-07-09 23:08:59 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.210 ms - 118[0m
+2026-07-09 23:08:59 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.219 ms - 118[0m
+2026-07-09 23:08:59 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.190 ms - 118[0m
+2026-07-09 23:08:59 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 1.272 ms - 118[0m
+2026-07-09 23:09:00 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.218 ms - 118[0m
+2026-07-09 23:09:00 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.119 ms - 118[0m
+2026-07-09 23:09:00 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.471 ms - 118[0m
+2026-07-09 23:09:00 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.193 ms - 118[0m
+2026-07-09 23:09:00 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.176 ms - 118[0m
+2026-07-09 23:09:00 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.180 ms - 118[0m
+2026-07-09 23:09:00 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.373 ms - 118[0m
+2026-07-09 23:09:00 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.238 ms - 118[0m
+2026-07-09 23:09:00 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.469 ms - 118[0m
+2026-07-09 23:09:00 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.246 ms - 118[0m
+2026-07-09 23:09:01 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.430 ms - 118[0m
+2026-07-09 23:09:01 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.189 ms - 118[0m
+2026-07-09 23:09:01 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.248 ms - 118[0m
+2026-07-09 23:09:01 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.221 ms - 118[0m
+2026-07-09 23:09:01 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.228 ms - 118[0m
+2026-07-09 23:09:01 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.130 ms - 118[0m
+2026-07-09 23:09:01 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.082 ms - 118[0m
+2026-07-09 23:09:01 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.162 ms - 118[0m
+2026-07-09 23:09:01 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.227 ms - 118[0m
+2026-07-09 23:09:01 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.175 ms - 118[0m
+2026-07-09 23:09:02 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.180 ms - 118[0m
+2026-07-09 23:09:02 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.150 ms - 118[0m
+2026-07-09 23:09:02 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.232 ms - 118[0m
+2026-07-09 23:09:02 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.244 ms - 118[0m
+2026-07-09 23:09:02 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.250 ms - 118[0m
+2026-07-09 23:09:02 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.225 ms - 118[0m
+2026-07-09 23:09:02 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.243 ms - 118[0m
+2026-07-09 23:09:02 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.265 ms - 118[0m
+2026-07-09 23:09:02 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.236 ms - 118[0m
+2026-07-09 23:09:02 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.202 ms - 118[0m
+2026-07-09 23:09:03 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.167 ms - 118[0m
+2026-07-09 23:09:03 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.193 ms - 118[0m
+2026-07-09 23:09:03 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.217 ms - 118[0m
+2026-07-09 23:09:03 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.132 ms - 118[0m
+2026-07-09 23:09:03 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.176 ms - 118[0m
+2026-07-09 23:09:03 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.198 ms - 118[0m
+2026-07-09 23:09:03 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.206 ms - 118[0m
+2026-07-09 23:09:03 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.201 ms - 118[0m
+2026-07-09 23:09:04 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.221 ms - 118[0m
+2026-07-09 23:09:04 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.188 ms - 118[0m
+2026-07-09 23:09:04 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.228 ms - 118[0m
+2026-07-09 23:09:04 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.198 ms - 118[0m
+2026-07-09 23:09:04 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.229 ms - 118[0m
+2026-07-09 23:09:04 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.241 ms - 118[0m
+2026-07-09 23:09:04 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.149 ms - 118[0m
+2026-07-09 23:09:04 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.154 ms - 118[0m
+2026-07-09 23:09:04 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.107 ms - 118[0m
+2026-07-09 23:09:04 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.190 ms - 118[0m
+2026-07-09 23:09:04 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.186 ms - 118[0m
+2026-07-09 23:09:04 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.181 ms - 118[0m
+2026-07-09 23:09:05 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.123 ms - 118[0m
+2026-07-09 23:09:05 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.073 ms - 118[0m
+2026-07-09 23:09:05 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.211 ms - 118[0m
+2026-07-09 23:09:05 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.170 ms - 118[0m
+2026-07-09 23:09:05 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.165 ms - 118[0m
+2026-07-09 23:09:05 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.196 ms - 118[0m
+2026-07-09 23:09:05 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.374 ms - 118[0m
+2026-07-09 23:09:05 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.265 ms - 118[0m
+2026-07-09 23:09:05 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.225 ms - 118[0m
+2026-07-09 23:09:05 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.309 ms - 118[0m
+2026-07-09 23:09:17 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.331 ms - 118[0m
+2026-07-09 23:09:17 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.345 ms - 118[0m
+2026-07-09 23:09:17 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.311 ms - 118[0m
+2026-07-09 23:09:17 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.343 ms - 118[0m
+2026-07-09 23:09:17 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.208 ms - 118[0m
+2026-07-09 23:09:18 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.231 ms - 118[0m
+2026-07-09 23:09:18 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.237 ms - 118[0m
+2026-07-09 23:09:18 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.314 ms - 118[0m
+2026-07-09 23:09:18 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.425 ms - 118[0m
+2026-07-09 23:09:18 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.302 ms - 118[0m
+2026-07-09 23:09:18 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.205 ms - 118[0m
+2026-07-09 23:09:18 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.267 ms - 118[0m
+2026-07-09 23:09:18 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.241 ms - 118[0m
+2026-07-09 23:09:18 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.267 ms - 118[0m
+2026-07-09 23:09:18 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.216 ms - 118[0m
+2026-07-09 23:09:18 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.241 ms - 118[0m
+2026-07-09 23:09:18 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.293 ms - 118[0m
+2026-07-09 23:09:18 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.342 ms - 118[0m
+2026-07-09 23:09:18 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.268 ms - 118[0m
+2026-07-09 23:09:18 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.314 ms - 118[0m
+2026-07-09 23:09:19 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.270 ms - 118[0m
+2026-07-09 23:09:19 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.223 ms - 118[0m
+2026-07-09 23:09:19 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.190 ms - 118[0m
+2026-07-09 23:09:19 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.212 ms - 118[0m
+2026-07-09 23:09:19 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.219 ms - 118[0m
+2026-07-09 23:09:19 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.210 ms - 118[0m
+2026-07-09 23:09:19 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.202 ms - 118[0m
+2026-07-09 23:09:19 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.266 ms - 118[0m
+2026-07-09 23:09:19 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.268 ms - 118[0m
+2026-07-09 23:09:19 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.301 ms - 118[0m
+2026-07-09 23:09:19 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.163 ms - 118[0m
+2026-07-09 23:09:19 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.162 ms - 118[0m
+2026-07-09 23:09:19 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.189 ms - 118[0m
+2026-07-09 23:09:19 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.153 ms - 118[0m
+2026-07-09 23:09:19 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.195 ms - 118[0m
+2026-07-09 23:09:19 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.249 ms - 118[0m
+2026-07-09 23:09:19 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.397 ms - 118[0m
+2026-07-09 23:09:19 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.264 ms - 118[0m
+2026-07-09 23:09:19 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.238 ms - 118[0m
+2026-07-09 23:09:19 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.273 ms - 118[0m
+2026-07-09 23:09:19 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.260 ms - 118[0m
+2026-07-09 23:09:19 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.215 ms - 118[0m
+2026-07-09 23:09:19 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.173 ms - 118[0m
+2026-07-09 23:09:19 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.171 ms - 118[0m
+2026-07-09 23:09:19 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.215 ms - 118[0m
+2026-07-09 23:09:20 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.165 ms - 118[0m
+2026-07-09 23:09:20 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.124 ms - 118[0m
+2026-07-09 23:09:20 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.136 ms - 118[0m
+2026-07-09 23:09:20 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.151 ms - 118[0m
+2026-07-09 23:09:20 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.207 ms - 118[0m
+2026-07-09 23:09:20 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.181 ms - 118[0m
+2026-07-09 23:09:20 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.131 ms - 118[0m
+2026-07-09 23:09:20 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.179 ms - 118[0m
+2026-07-09 23:09:20 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.208 ms - 118[0m
+2026-07-09 23:09:20 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.253 ms - 118[0m
+2026-07-09 23:09:20 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.203 ms - 118[0m
+2026-07-09 23:09:20 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.349 ms - 118[0m
+2026-07-09 23:09:20 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.155 ms - 118[0m
+2026-07-09 23:09:20 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.181 ms - 118[0m
+2026-07-09 23:09:20 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.193 ms - 118[0m
+2026-07-09 23:09:20 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.179 ms - 118[0m
+2026-07-09 23:09:20 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.156 ms - 118[0m
+2026-07-09 23:09:20 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.142 ms - 118[0m
+2026-07-09 23:09:20 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.179 ms - 118[0m
+2026-07-09 23:09:20 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.254 ms - 118[0m
+2026-07-09 23:09:20 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.201 ms - 118[0m
+2026-07-09 23:09:20 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.246 ms - 118[0m
+2026-07-09 23:09:20 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.214 ms - 118[0m
+2026-07-09 23:09:20 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.480 ms - 118[0m
+2026-07-09 23:09:20 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.427 ms - 118[0m
+2026-07-09 23:09:21 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.170 ms - 118[0m
+2026-07-09 23:09:21 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.139 ms - 118[0m
+2026-07-09 23:09:21 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.330 ms - 118[0m
+2026-07-09 23:09:21 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.335 ms - 118[0m
+2026-07-09 23:09:21 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.215 ms - 118[0m
+2026-07-09 23:09:21 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.241 ms - 118[0m
+2026-07-09 23:09:21 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.215 ms - 118[0m
+2026-07-09 23:09:21 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.214 ms - 118[0m
+2026-07-09 23:09:21 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.181 ms - 118[0m
+2026-07-09 23:09:21 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.245 ms - 118[0m
+2026-07-09 23:09:21 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.228 ms - 118[0m
+2026-07-09 23:09:21 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.135 ms - 118[0m
+2026-07-09 23:09:21 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.130 ms - 118[0m
+2026-07-09 23:09:21 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.183 ms - 118[0m
+2026-07-09 23:09:21 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.359 ms - 118[0m
+2026-07-09 23:09:21 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.204 ms - 118[0m
+2026-07-09 23:09:21 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.195 ms - 118[0m
+2026-07-09 23:09:21 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.181 ms - 118[0m
+2026-07-09 23:09:21 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.235 ms - 118[0m
+2026-07-09 23:09:21 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.211 ms - 118[0m
+2026-07-09 23:09:21 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.198 ms - 118[0m
+2026-07-09 23:09:21 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.153 ms - 118[0m
+2026-07-09 23:09:21 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.252 ms - 118[0m
+2026-07-09 23:09:21 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.219 ms - 118[0m
+2026-07-09 23:09:21 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.234 ms - 118[0m
+2026-07-09 23:09:22 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.325 ms - 118[0m
+2026-07-09 23:09:22 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.315 ms - 118[0m
+2026-07-09 23:09:22 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.234 ms - 118[0m
+2026-07-09 23:09:22 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.354 ms - 118[0m
+2026-07-09 23:09:22 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.225 ms - 118[0m
+2026-07-09 23:09:22 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.220 ms - 118[0m
+2026-07-09 23:09:22 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.163 ms - 118[0m
+2026-07-09 23:09:22 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.168 ms - 118[0m
+2026-07-09 23:09:22 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.194 ms - 118[0m
+2026-07-09 23:09:22 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.314 ms - 118[0m
+2026-07-09 23:09:22 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.241 ms - 118[0m
+2026-07-09 23:09:22 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.414 ms - 118[0m
+2026-07-09 23:09:22 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.645 ms - 118[0m
+2026-07-09 23:09:22 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.217 ms - 118[0m
+2026-07-09 23:09:22 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.302 ms - 118[0m
+2026-07-09 23:09:22 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.156 ms - 118[0m
+2026-07-09 23:09:22 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.202 ms - 118[0m
+2026-07-09 23:09:22 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.200 ms - 118[0m
+2026-07-09 23:09:22 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.219 ms - 118[0m
+2026-07-09 23:09:22 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.299 ms - 118[0m
+2026-07-09 23:09:23 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.142 ms - 118[0m
+2026-07-09 23:09:23 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.067 ms - 118[0m
+2026-07-09 23:09:23 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.079 ms - 118[0m
+2026-07-09 23:09:23 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.161 ms - 118[0m
+2026-07-09 23:09:23 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.239 ms - 118[0m
+2026-07-09 23:09:23 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.215 ms - 118[0m
+2026-07-09 23:09:23 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.114 ms - 118[0m
+2026-07-09 23:09:23 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.093 ms - 118[0m
+2026-07-09 23:09:23 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.089 ms - 118[0m
+2026-07-09 23:09:23 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.166 ms - 118[0m
+2026-07-09 23:09:23 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.231 ms - 118[0m
+2026-07-09 23:09:23 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.143 ms - 118[0m
+2026-07-09 23:09:23 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.160 ms - 118[0m
+2026-07-09 23:09:23 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.165 ms - 118[0m
+2026-07-09 23:09:23 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.148 ms - 118[0m
+2026-07-09 23:09:23 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.177 ms - 118[0m
+2026-07-09 23:09:23 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.182 ms - 118[0m
+2026-07-09 23:09:23 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.218 ms - 118[0m
+2026-07-09 23:09:23 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.188 ms - 118[0m
+2026-07-09 23:09:23 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.176 ms - 118[0m
+2026-07-09 23:09:24 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.153 ms - 118[0m
+2026-07-09 23:09:24 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.082 ms - 118[0m
+2026-07-09 23:09:24 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.078 ms - 118[0m
+2026-07-09 23:09:24 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.330 ms - 118[0m
+2026-07-09 23:09:24 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.193 ms - 118[0m
+2026-07-09 23:09:24 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.180 ms - 118[0m
+2026-07-09 23:09:24 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.138 ms - 118[0m
+2026-07-09 23:09:24 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.154 ms - 118[0m
+2026-07-09 23:09:24 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.196 ms - 118[0m
+2026-07-09 23:09:24 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.261 ms - 118[0m
+2026-07-09 23:09:24 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.170 ms - 118[0m
+2026-07-09 23:09:24 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.151 ms - 118[0m
+2026-07-09 23:09:24 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.170 ms - 118[0m
+2026-07-09 23:09:24 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.306 ms - 118[0m
+2026-07-09 23:09:24 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.168 ms - 118[0m
+2026-07-09 23:09:24 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.189 ms - 118[0m
+2026-07-09 23:09:24 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.140 ms - 118[0m
+2026-07-09 23:09:24 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.149 ms - 118[0m
+2026-07-09 23:09:24 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.150 ms - 118[0m
+2026-07-09 23:09:24 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.323 ms - 118[0m
+2026-07-09 23:09:25 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.231 ms - 118[0m
+2026-07-09 23:09:25 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.113 ms - 118[0m
+2026-07-09 23:09:25 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.097 ms - 118[0m
+2026-07-09 23:09:25 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.111 ms - 118[0m
+2026-07-09 23:09:25 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.111 ms - 118[0m
+2026-07-09 23:09:25 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.187 ms - 118[0m
+2026-07-09 23:09:25 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.123 ms - 118[0m
+2026-07-09 23:09:25 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.122 ms - 118[0m
+2026-07-09 23:09:25 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.212 ms - 118[0m
+2026-07-09 23:09:25 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.148 ms - 118[0m
+2026-07-09 23:09:25 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.167 ms - 118[0m
+2026-07-09 23:09:25 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.124 ms - 118[0m
+2026-07-09 23:09:25 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.166 ms - 118[0m
+2026-07-09 23:09:25 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.131 ms - 118[0m
+2026-07-09 23:09:25 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.208 ms - 118[0m
+2026-07-09 23:09:25 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.133 ms - 118[0m
+2026-07-09 23:09:25 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.131 ms - 118[0m
+2026-07-09 23:09:25 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.235 ms - 118[0m
+2026-07-09 23:09:25 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.224 ms - 118[0m
+2026-07-09 23:09:25 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.262 ms - 118[0m
+2026-07-09 23:09:26 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.143 ms - 118[0m
+2026-07-09 23:09:26 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.065 ms - 118[0m
+2026-07-09 23:09:26 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.068 ms - 118[0m
+2026-07-09 23:09:26 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.081 ms - 118[0m
+2026-07-09 23:09:26 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.080 ms - 118[0m
+2026-07-09 23:09:26 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.170 ms - 118[0m
+2026-07-09 23:09:26 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.237 ms - 118[0m
+2026-07-09 23:09:26 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.229 ms - 118[0m
+2026-07-09 23:09:26 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.183 ms - 118[0m
+2026-07-09 23:09:26 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.162 ms - 118[0m
+2026-07-09 23:09:26 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.174 ms - 118[0m
+2026-07-09 23:09:26 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.138 ms - 118[0m
+2026-07-09 23:09:26 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.155 ms - 118[0m
+2026-07-09 23:09:26 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.211 ms - 118[0m
+2026-07-09 23:09:26 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.258 ms - 118[0m
+2026-07-09 23:09:26 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.151 ms - 118[0m
+2026-07-09 23:09:26 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.104 ms - 118[0m
+2026-07-09 23:09:26 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.122 ms - 118[0m
+2026-07-09 23:09:26 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.126 ms - 118[0m
+2026-07-09 23:09:26 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.116 ms - 118[0m
+2026-07-09 23:09:27 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.188 ms - 118[0m
+2026-07-09 23:09:27 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.148 ms - 118[0m
+2026-07-09 23:09:27 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.162 ms - 118[0m
+2026-07-09 23:09:27 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.200 ms - 118[0m
+2026-07-09 23:09:27 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.194 ms - 118[0m
+2026-07-09 23:09:27 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.178 ms - 118[0m
+2026-07-09 23:09:27 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.166 ms - 118[0m
+2026-07-09 23:09:27 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.152 ms - 118[0m
+2026-07-09 23:09:27 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.153 ms - 118[0m
+2026-07-09 23:09:27 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.211 ms - 118[0m
+2026-07-09 23:09:27 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.194 ms - 118[0m
+2026-07-09 23:09:27 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.138 ms - 118[0m
+2026-07-09 23:09:27 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.170 ms - 118[0m
+2026-07-09 23:09:27 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.235 ms - 118[0m
+2026-07-09 23:09:27 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.209 ms - 118[0m
+2026-07-09 23:09:27 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.243 ms - 118[0m
+2026-07-09 23:09:27 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.376 ms - 118[0m
+2026-07-09 23:09:27 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.270 ms - 118[0m
+2026-07-09 23:09:27 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.230 ms - 118[0m
+2026-07-09 23:09:27 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.277 ms - 118[0m
+2026-07-09 23:09:28 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.209 ms - 118[0m
+2026-07-09 23:09:28 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.146 ms - 118[0m
+2026-07-09 23:09:28 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.139 ms - 118[0m
+2026-07-09 23:09:28 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.150 ms - 118[0m
+2026-07-09 23:09:28 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.194 ms - 118[0m
+2026-07-09 23:09:28 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.228 ms - 118[0m
+2026-07-09 23:09:28 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.196 ms - 118[0m
+2026-07-09 23:09:28 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.185 ms - 118[0m
+2026-07-09 23:09:28 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.149 ms - 118[0m
+2026-07-09 23:09:28 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.360 ms - 118[0m
+2026-07-09 23:09:28 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.247 ms - 118[0m
+2026-07-09 23:09:28 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.207 ms - 118[0m
+2026-07-09 23:09:28 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.221 ms - 118[0m
+2026-07-09 23:09:28 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.209 ms - 118[0m
+2026-07-09 23:09:28 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.208 ms - 118[0m
+2026-07-09 23:09:28 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.218 ms - 118[0m
+2026-07-09 23:09:28 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.186 ms - 118[0m
+2026-07-09 23:09:28 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.191 ms - 118[0m
+2026-07-09 23:09:28 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.224 ms - 118[0m
+2026-07-09 23:09:28 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.279 ms - 118[0m
+2026-07-09 23:09:29 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.215 ms - 118[0m
+2026-07-09 23:09:29 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.221 ms - 118[0m
+2026-07-09 23:09:29 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.182 ms - 118[0m
+2026-07-09 23:09:29 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.245 ms - 118[0m
+2026-07-09 23:09:29 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.169 ms - 118[0m
+2026-07-09 23:09:29 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.187 ms - 118[0m
+2026-07-09 23:09:29 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.184 ms - 118[0m
+2026-07-09 23:09:29 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.319 ms - 118[0m
+2026-07-09 23:09:29 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.221 ms - 118[0m
+2026-07-09 23:09:29 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.197 ms - 118[0m
+2026-07-09 23:09:29 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.212 ms - 118[0m
+2026-07-09 23:09:29 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.180 ms - 118[0m
+2026-07-09 23:09:29 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.178 ms - 118[0m
+2026-07-09 23:09:29 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.214 ms - 118[0m
+2026-07-09 23:09:29 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.207 ms - 118[0m
+2026-07-09 23:09:29 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.257 ms - 118[0m
+2026-07-09 23:09:29 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.228 ms - 118[0m
+2026-07-09 23:09:29 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.225 ms - 118[0m
+2026-07-09 23:09:29 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.358 ms - 118[0m
+2026-07-09 23:09:29 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.288 ms - 118[0m
+2026-07-09 23:09:30 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.164 ms - 118[0m
+2026-07-09 23:09:30 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.254 ms - 118[0m
+2026-07-09 23:09:30 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.158 ms - 118[0m
+2026-07-09 23:09:30 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.193 ms - 118[0m
+2026-07-09 23:09:30 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.414 ms - 118[0m
+2026-07-09 23:09:30 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.117 ms - 118[0m
+2026-07-09 23:09:30 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.128 ms - 118[0m
+2026-07-09 23:09:30 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.116 ms - 118[0m
+2026-07-09 23:09:30 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.139 ms - 118[0m
+2026-07-09 23:09:30 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.147 ms - 118[0m
+2026-07-09 23:09:30 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.151 ms - 118[0m
+2026-07-09 23:09:30 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.119 ms - 118[0m
+2026-07-09 23:09:30 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.123 ms - 118[0m
+2026-07-09 23:09:30 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.152 ms - 118[0m
+2026-07-09 23:09:30 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.214 ms - 118[0m
+2026-07-09 23:09:30 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.174 ms - 118[0m
+2026-07-09 23:09:30 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.152 ms - 118[0m
+2026-07-09 23:09:30 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.156 ms - 118[0m
+2026-07-09 23:09:30 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.180 ms - 118[0m
+2026-07-09 23:09:30 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.232 ms - 118[0m
+2026-07-09 23:09:31 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.126 ms - 118[0m
+2026-07-09 23:09:31 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.094 ms - 118[0m
+2026-07-09 23:09:31 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.072 ms - 118[0m
+2026-07-09 23:09:31 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.132 ms - 118[0m
+2026-07-09 23:09:31 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.223 ms - 118[0m
+2026-07-09 23:09:31 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.137 ms - 118[0m
+2026-07-09 23:09:31 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.070 ms - 118[0m
+2026-07-09 23:09:31 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.208 ms - 118[0m
+2026-07-09 23:09:31 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.188 ms - 118[0m
+2026-07-09 23:09:31 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.217 ms - 118[0m
+2026-07-09 23:09:31 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.154 ms - 118[0m
+2026-07-09 23:09:31 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.141 ms - 118[0m
+2026-07-09 23:09:31 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.132 ms - 118[0m
+2026-07-09 23:09:31 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.135 ms - 118[0m
+2026-07-09 23:09:31 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.180 ms - 118[0m
+2026-07-09 23:09:31 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.212 ms - 118[0m
+2026-07-09 23:09:31 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.285 ms - 118[0m
+2026-07-09 23:09:31 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.199 ms - 118[0m
+2026-07-09 23:09:31 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.276 ms - 118[0m
+2026-07-09 23:09:31 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.304 ms - 118[0m
+2026-07-09 23:09:31 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.154 ms - 118[0m
+2026-07-09 23:09:31 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.136 ms - 118[0m
+2026-07-09 23:09:31 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.086 ms - 118[0m
+2026-07-09 23:09:31 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.070 ms - 118[0m
+2026-07-09 23:09:31 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.076 ms - 118[0m
+2026-07-09 23:09:32 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.310 ms - 118[0m
+2026-07-09 23:09:32 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.216 ms - 118[0m
+2026-07-09 23:09:32 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.207 ms - 118[0m
+2026-07-09 23:09:32 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.227 ms - 118[0m
+2026-07-09 23:09:32 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.232 ms - 118[0m
+2026-07-09 23:09:32 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.142 ms - 118[0m
+2026-07-09 23:09:32 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.095 ms - 118[0m
+2026-07-09 23:09:32 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.094 ms - 118[0m
+2026-07-09 23:09:32 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.098 ms - 118[0m
+2026-07-09 23:09:32 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.100 ms - 118[0m
+2026-07-09 23:09:32 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.185 ms - 118[0m
+2026-07-09 23:09:32 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.193 ms - 118[0m
+2026-07-09 23:09:32 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.190 ms - 118[0m
+2026-07-09 23:09:32 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.214 ms - 118[0m
+2026-07-09 23:09:32 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.416 ms - 118[0m
+2026-07-09 23:09:32 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.165 ms - 118[0m
+2026-07-09 23:09:32 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.131 ms - 118[0m
+2026-07-09 23:09:32 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.125 ms - 118[0m
+2026-07-09 23:09:32 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.177 ms - 118[0m
+2026-07-09 23:09:32 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.335 ms - 118[0m
+2026-07-09 23:09:33 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.191 ms - 118[0m
+2026-07-09 23:09:33 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.186 ms - 118[0m
+2026-07-09 23:09:33 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.200 ms - 118[0m
+2026-07-09 23:09:33 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.172 ms - 118[0m
+2026-07-09 23:09:33 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.273 ms - 118[0m
+2026-07-09 23:09:33 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.170 ms - 118[0m
+2026-07-09 23:09:33 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.136 ms - 118[0m
+2026-07-09 23:09:33 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.142 ms - 118[0m
+2026-07-09 23:09:33 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.204 ms - 118[0m
+2026-07-09 23:09:33 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.191 ms - 118[0m
+2026-07-09 23:09:33 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.143 ms - 118[0m
+2026-07-09 23:09:33 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.073 ms - 118[0m
+2026-07-09 23:09:33 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.096 ms - 118[0m
+2026-07-09 23:09:33 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.107 ms - 118[0m
+2026-07-09 23:09:33 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.064 ms - 118[0m
+2026-07-09 23:09:33 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.171 ms - 118[0m
+2026-07-09 23:09:33 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.144 ms - 118[0m
+2026-07-09 23:09:33 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.154 ms - 118[0m
+2026-07-09 23:09:33 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.139 ms - 118[0m
+2026-07-09 23:09:33 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.186 ms - 118[0m
+2026-07-09 23:09:34 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.176 ms - 118[0m
+2026-07-09 23:09:34 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.127 ms - 118[0m
+2026-07-09 23:09:34 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.114 ms - 118[0m
+2026-07-09 23:09:34 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.108 ms - 118[0m
+2026-07-09 23:09:34 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.108 ms - 118[0m
+2026-07-09 23:09:34 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.211 ms - 118[0m
+2026-07-09 23:09:34 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.226 ms - 118[0m
+2026-07-09 23:09:34 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.220 ms - 118[0m
+2026-07-09 23:09:34 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.280 ms - 118[0m
+2026-07-09 23:09:34 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.250 ms - 118[0m
+2026-07-09 23:09:34 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.168 ms - 118[0m
+2026-07-09 23:09:34 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.124 ms - 118[0m
+2026-07-09 23:09:34 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.137 ms - 118[0m
+2026-07-09 23:09:34 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.103 ms - 118[0m
+2026-07-09 23:09:34 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.144 ms - 118[0m
+2026-07-09 23:09:34 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.145 ms - 118[0m
+2026-07-09 23:09:34 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.129 ms - 118[0m
+2026-07-09 23:09:34 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.250 ms - 118[0m
+2026-07-09 23:09:34 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.215 ms - 118[0m
+2026-07-09 23:09:34 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.318 ms - 118[0m
+2026-07-09 23:09:35 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.172 ms - 118[0m
+2026-07-09 23:09:35 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.173 ms - 118[0m
+2026-07-09 23:09:35 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.193 ms - 118[0m
+2026-07-09 23:09:35 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.197 ms - 118[0m
+2026-07-09 23:09:35 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.193 ms - 118[0m
+2026-07-09 23:09:35 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.160 ms - 118[0m
+2026-07-09 23:09:35 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.139 ms - 118[0m
+2026-07-09 23:09:35 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.143 ms - 118[0m
+2026-07-09 23:09:35 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.147 ms - 118[0m
+2026-07-09 23:09:35 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.272 ms - 118[0m
+2026-07-09 23:09:35 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.255 ms - 118[0m
+2026-07-09 23:09:35 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.093 ms - 118[0m
+2026-07-09 23:09:35 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.090 ms - 118[0m
+2026-07-09 23:09:35 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.172 ms - 118[0m
+2026-07-09 23:09:35 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.136 ms - 118[0m
+2026-07-09 23:09:35 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.144 ms - 118[0m
+2026-07-09 23:09:35 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.094 ms - 118[0m
+2026-07-09 23:09:35 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.095 ms - 118[0m
+2026-07-09 23:09:35 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.172 ms - 118[0m
+2026-07-09 23:09:35 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.270 ms - 118[0m
+2026-07-09 23:09:36 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.162 ms - 118[0m
+2026-07-09 23:09:36 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.154 ms - 118[0m
+2026-07-09 23:09:36 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.147 ms - 118[0m
+2026-07-09 23:09:36 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.194 ms - 118[0m
+2026-07-09 23:09:36 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.325 ms - 118[0m
+2026-07-09 23:09:36 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.194 ms - 118[0m
+2026-07-09 23:09:36 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.176 ms - 118[0m
+2026-07-09 23:09:36 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.394 ms - 118[0m
+2026-07-09 23:09:36 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.231 ms - 118[0m
+2026-07-09 23:09:36 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.184 ms - 118[0m
+2026-07-09 23:09:36 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.192 ms - 118[0m
+2026-07-09 23:09:36 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.233 ms - 118[0m
+2026-07-09 23:09:36 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.140 ms - 118[0m
+2026-07-09 23:09:36 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.201 ms - 118[0m
+2026-07-09 23:09:36 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.187 ms - 118[0m
+2026-07-09 23:09:36 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.160 ms - 118[0m
+2026-07-09 23:09:36 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.099 ms - 118[0m
+2026-07-09 23:09:36 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.104 ms - 118[0m
+2026-07-09 23:09:36 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.100 ms - 118[0m
+2026-07-09 23:09:36 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.074 ms - 118[0m
+2026-07-09 23:09:37 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.138 ms - 118[0m
+2026-07-09 23:09:37 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.099 ms - 118[0m
+2026-07-09 23:09:37 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.197 ms - 118[0m
+2026-07-09 23:09:37 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.738 ms - 118[0m
+2026-07-09 23:09:37 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.269 ms - 118[0m
+2026-07-09 23:09:37 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.216 ms - 118[0m
+2026-07-09 23:09:37 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.194 ms - 118[0m
+2026-07-09 23:09:37 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.164 ms - 118[0m
+2026-07-09 23:09:37 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.408 ms - 118[0m
+2026-07-09 23:09:37 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.277 ms - 118[0m
+2026-07-09 23:09:37 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.186 ms - 118[0m
+2026-07-09 23:09:37 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.136 ms - 118[0m
+2026-07-09 23:09:37 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.124 ms - 118[0m
+2026-07-09 23:09:37 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.136 ms - 118[0m
+2026-07-09 23:09:37 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.152 ms - 118[0m
+2026-07-09 23:09:37 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.350 ms - 118[0m
+2026-07-09 23:09:37 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.216 ms - 118[0m
+2026-07-09 23:09:37 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.243 ms - 118[0m
+2026-07-09 23:09:37 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.264 ms - 118[0m
+2026-07-09 23:09:37 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.204 ms - 118[0m
+2026-07-09 23:09:38 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.165 ms - 118[0m
+2026-07-09 23:09:38 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.138 ms - 118[0m
+2026-07-09 23:09:38 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.179 ms - 118[0m
+2026-07-09 23:09:38 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.214 ms - 118[0m
+2026-07-09 23:09:38 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.248 ms - 118[0m
+2026-07-09 23:09:38 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.269 ms - 118[0m
+2026-07-09 23:09:38 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.195 ms - 118[0m
+2026-07-09 23:09:38 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.182 ms - 118[0m
+2026-07-09 23:09:38 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.256 ms - 118[0m
+2026-07-09 23:09:38 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.239 ms - 118[0m
+2026-07-09 23:09:38 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.216 ms - 118[0m
+2026-07-09 23:09:38 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.148 ms - 118[0m
+2026-07-09 23:09:38 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.196 ms - 118[0m
+2026-07-09 23:09:38 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.229 ms - 118[0m
+2026-07-09 23:09:38 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.358 ms - 118[0m
+2026-07-09 23:09:38 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.181 ms - 118[0m
+2026-07-09 23:09:38 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.133 ms - 118[0m
+2026-07-09 23:09:38 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.207 ms - 118[0m
+2026-07-09 23:09:38 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.099 ms - 118[0m
+2026-07-09 23:09:38 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.124 ms - 118[0m
+2026-07-09 23:09:38 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.245 ms - 118[0m
+2026-07-09 23:09:38 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.205 ms - 118[0m
+2026-07-09 23:09:38 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.233 ms - 118[0m
+2026-07-09 23:09:38 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.289 ms - 118[0m
+2026-07-09 23:09:38 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.242 ms - 118[0m
+2026-07-09 23:09:39 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.274 ms - 118[0m
+2026-07-09 23:09:39 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.146 ms - 118[0m
+2026-07-09 23:09:39 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.213 ms - 118[0m
+2026-07-09 23:09:39 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.148 ms - 118[0m
+2026-07-09 23:09:39 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.287 ms - 118[0m
+2026-07-09 23:09:39 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.161 ms - 118[0m
+2026-07-09 23:09:39 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.200 ms - 118[0m
+2026-07-09 23:09:39 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.202 ms - 118[0m
+2026-07-09 23:09:39 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.245 ms - 118[0m
+2026-07-09 23:09:39 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.212 ms - 118[0m
+2026-07-09 23:09:39 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.155 ms - 118[0m
+2026-07-09 23:09:39 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.115 ms - 118[0m
+2026-07-09 23:09:39 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.130 ms - 118[0m
+2026-07-09 23:09:39 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.139 ms - 118[0m
+2026-07-09 23:09:39 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.163 ms - 118[0m
+2026-07-09 23:09:39 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.205 ms - 118[0m
+2026-07-09 23:09:39 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.140 ms - 118[0m
+2026-07-09 23:09:39 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.167 ms - 118[0m
+2026-07-09 23:09:39 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.223 ms - 118[0m
+2026-07-09 23:09:39 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.284 ms - 118[0m
+2026-07-09 23:09:39 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.157 ms - 118[0m
+2026-07-09 23:09:39 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.120 ms - 118[0m
+2026-07-09 23:09:39 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.158 ms - 118[0m
+2026-07-09 23:09:39 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.182 ms - 118[0m
+2026-07-09 23:09:39 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.357 ms - 118[0m
+2026-07-09 23:09:40 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.154 ms - 118[0m
+2026-07-09 23:09:40 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.120 ms - 118[0m
+2026-07-09 23:09:40 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.122 ms - 118[0m
+2026-07-09 23:09:40 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.176 ms - 118[0m
+2026-07-09 23:09:40 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.180 ms - 118[0m
+2026-07-09 23:09:40 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.110 ms - 118[0m
+2026-07-09 23:09:40 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.060 ms - 118[0m
+2026-07-09 23:09:40 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.055 ms - 118[0m
+2026-07-09 23:09:40 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.066 ms - 118[0m
+2026-07-09 23:09:40 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.207 ms - 118[0m
+2026-07-09 23:09:40 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.136 ms - 118[0m
+2026-07-09 23:09:40 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.204 ms - 118[0m
+2026-07-09 23:09:40 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.214 ms - 118[0m
+2026-07-09 23:09:40 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.214 ms - 118[0m
+2026-07-09 23:09:40 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.213 ms - 118[0m
+2026-07-09 23:09:40 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.170 ms - 118[0m
+2026-07-09 23:09:40 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.117 ms - 118[0m
+2026-07-09 23:09:40 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.120 ms - 118[0m
+2026-07-09 23:09:40 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.171 ms - 118[0m
+2026-07-09 23:09:40 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.190 ms - 118[0m
+2026-07-09 23:09:40 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.161 ms - 118[0m
+2026-07-09 23:09:40 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.147 ms - 118[0m
+2026-07-09 23:09:40 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.150 ms - 118[0m
+2026-07-09 23:09:40 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.185 ms - 118[0m
+2026-07-09 23:09:40 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.167 ms - 118[0m
+2026-07-09 23:09:41 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.187 ms - 118[0m
+2026-07-09 23:09:41 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.215 ms - 118[0m
+2026-07-09 23:09:41 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.199 ms - 118[0m
+2026-07-09 23:09:41 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.213 ms - 118[0m
+2026-07-09 23:09:41 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.501 ms - 118[0m
+2026-07-09 23:09:41 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.207 ms - 118[0m
+2026-07-09 23:09:41 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.190 ms - 118[0m
+2026-07-09 23:09:41 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.265 ms - 118[0m
+2026-07-09 23:09:41 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 1.117 ms - 118[0m
+2026-07-09 23:09:41 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.261 ms - 118[0m
+2026-07-09 23:09:41 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.307 ms - 118[0m
+2026-07-09 23:09:41 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.157 ms - 118[0m
+2026-07-09 23:09:41 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.185 ms - 118[0m
+2026-07-09 23:09:41 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.157 ms - 118[0m
+2026-07-09 23:09:41 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.194 ms - 118[0m
+2026-07-09 23:09:42 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.111 ms - 118[0m
+2026-07-09 23:09:42 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.239 ms - 118[0m
+2026-07-09 23:09:42 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.193 ms - 118[0m
+2026-07-09 23:09:42 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.187 ms - 118[0m
+2026-07-09 23:09:42 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.145 ms - 118[0m
+2026-07-09 23:09:42 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.164 ms - 118[0m
+2026-07-09 23:09:42 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.090 ms - 118[0m
+2026-07-09 23:09:42 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.088 ms - 118[0m
+2026-07-09 23:09:42 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.119 ms - 118[0m
+2026-07-09 23:09:42 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.130 ms - 118[0m
+2026-07-09 23:09:43 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.119 ms - 118[0m
+2026-07-09 23:09:43 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.245 ms - 118[0m
+2026-07-09 23:09:43 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.360 ms - 118[0m
+2026-07-09 23:09:43 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.248 ms - 118[0m
+2026-07-09 23:09:43 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.305 ms - 118[0m
+2026-07-09 23:09:43 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.149 ms - 118[0m
+2026-07-09 23:09:43 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.196 ms - 118[0m
+2026-07-09 23:09:43 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.156 ms - 118[0m
+2026-07-09 23:09:43 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.140 ms - 118[0m
+2026-07-09 23:09:43 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.262 ms - 118[0m
+2026-07-09 23:09:44 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.189 ms - 118[0m
+2026-07-09 23:09:44 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.162 ms - 118[0m
+2026-07-09 23:09:44 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.184 ms - 118[0m
+2026-07-09 23:09:44 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.336 ms - 118[0m
+2026-07-09 23:09:44 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.204 ms - 118[0m
+2026-07-09 23:09:44 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.183 ms - 118[0m
+2026-07-09 23:09:44 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.162 ms - 118[0m
+2026-07-09 23:09:44 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.178 ms - 118[0m
+2026-07-09 23:09:44 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.219 ms - 118[0m
+2026-07-09 23:09:44 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.200 ms - 118[0m
+2026-07-09 23:09:45 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.203 ms - 118[0m
+2026-07-09 23:09:45 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.159 ms - 118[0m
+2026-07-09 23:09:45 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.185 ms - 118[0m
+2026-07-09 23:09:45 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.228 ms - 118[0m
+2026-07-09 23:09:45 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.212 ms - 118[0m
+2026-07-09 23:09:46 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.444 ms - 118[0m
+2026-07-09 23:09:46 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.257 ms - 118[0m
+2026-07-09 23:09:46 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.276 ms - 118[0m
+2026-07-09 23:09:46 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.382 ms - 118[0m
+2026-07-09 23:09:46 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.201 ms - 118[0m
+2026-07-09 23:15:12 error: UnauthorizedError: Invalid email or password
+    at Module.login (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/services/authService.js:110:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async login (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/controllers/authController.js:15:18)
+2026-07-09 23:15:12 info: [0mPOST /api/v1/admin/auth/login [33m401[0m 1339.464 ms - 95[0m
+2026-07-09 23:15:28 error: UnauthorizedError: Invalid email or password
+    at Module.login (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/services/authService.js:110:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async login (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/controllers/authController.js:15:18)
+2026-07-09 23:15:28 info: [0mPOST /api/v1/admin/auth/login [33m401[0m 167.989 ms - 95[0m
+2026-07-09 23:15:37 error: UnauthorizedError: Invalid email or password
+    at Module.login (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/services/authService.js:121:23)
+    at async login (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/controllers/authController.js:15:18)
+2026-07-09 23:15:37 info: [0mPOST /api/v1/admin/auth/login [33m401[0m 471.307 ms - 95[0m
+2026-07-09 23:16:35 info: [0mPOST /api/v1/admin/auth/register [32m201[0m 1962.947 ms - 747[0m
+2026-07-09 23:16:35 info: [0mGET /api/v1/farmer/profile [32m200[0m 76.270 ms - 209[0m
+2026-07-09 23:16:36 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [32m200[0m 736.934 ms - 126[0m
+2026-07-09 23:16:36 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [32m200[0m 795.580 ms - 190[0m
+2026-07-09 23:16:36 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [32m200[0m 841.279 ms - 175[0m
+2026-07-09 23:16:36 info: [0mGET /api/v1/farmer/dashboard [32m200[0m 972.915 ms - 180[0m
+2026-07-09 23:18:07 info: [0mGET /api/v1/farmer/estimate-cost?start_location=tamil&end_location=jammu&cargo_weight_kg=899.99&vehicle_type=mini_truck [32m200[0m 0.866 ms - 106[0m
+2026-07-09 23:18:11 info: [0mPOST /api/v1/farmer/bookings [32m201[0m 814.681 ms - 590[0m
+2026-07-09 23:18:13 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [32m200[0m 68.419 ms - 629[0m
+2026-07-09 23:19:00 error: TooManyRequestsError: Gemini API rate limit exceeded. Please retry later.
+    at mapGeminiHttpError (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:23:14)
+    at callGeminiGenerateContent (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:54:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Module.generateRecommendation (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:71:23)
+    at async recommend (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/controllers/recommendationController.js:5:26)
+2026-07-09 23:19:00 info: [0mPOST /api/v1/ai/recommend [33m429[0m 623.517 ms - 121[0m
+2026-07-09 23:19:18 error: TooManyRequestsError: Gemini API rate limit exceeded. Please retry later.
+    at mapGeminiHttpError (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:23:14)
+    at callGeminiGenerateContent (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:54:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Module.generateRecommendation (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:71:23)
+    at async recommend (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/controllers/recommendationController.js:5:26)
+2026-07-09 23:19:18 info: [0mPOST /api/v1/ai/recommend [33m429[0m 770.526 ms - 121[0m
+2026-07-09 23:19:18 error: TooManyRequestsError: Gemini API rate limit exceeded. Please retry later.
+    at mapGeminiHttpError (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:23:14)
+    at callGeminiGenerateContent (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:54:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Module.generateRecommendation (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:71:23)
+    at async recommend (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/controllers/recommendationController.js:5:26)
+2026-07-09 23:19:18 info: [0mPOST /api/v1/ai/recommend [33m429[0m 286.046 ms - 121[0m
+2026-07-09 23:21:16 info: 
+🛑 Received SIGINT. Shutting down gracefully…
+2026-07-09 23:21:21 info: ✓ dotenv loaded
+2026-07-09 23:21:21 info: ✓ DATABASE_URL found
+2026-07-09 23:21:21 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 23:21:21 info:   KrishiLink API — Starting Up
+2026-07-09 23:21:21 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 23:21:21 info: ✓ Environment   : development
+2026-07-09 23:21:21 info: ✓ Environment variables loaded
+2026-07-09 23:21:21 info: ✓ Supabase PostgreSQL configuration loaded
+2026-07-09 23:21:21 info: ✓ Connecting to Supabase...
+2026-07-09 23:21:22 info: ✓ Connected
+2026-07-09 23:21:22 info: ✓ Database connected
+2026-07-09 23:21:22 warn: ⚠️  Port 3000 is already in use. Finding next available port…
+2026-07-09 23:21:22 warn: ⚠️  Switching to port 3001. Set PORT=3001 in .env to make permanent.
+2026-07-09 23:21:22 info: ✓ Server listening on PORT 3001
+2026-07-09 23:21:22 info: ✓ API Base URL  : http://localhost:3001/api/v1
+2026-07-09 23:21:22 info: ✓ Swagger Docs  : http://localhost:3001/api-docs
+2026-07-09 23:21:22 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 23:21:35 info: [0mGET /api/v1/farmer/profile [33m401[0m 0.227 ms - 118[0m
+2026-07-09 23:21:35 info: [0mGET /api/v1/farmer/dashboard [33m401[0m 0.091 ms - 118[0m
+2026-07-09 23:21:35 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [33m401[0m 0.098 ms - 118[0m
+2026-07-09 23:21:35 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [33m401[0m 0.114 ms - 118[0m
+2026-07-09 23:21:35 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [33m401[0m 0.080 ms - 118[0m
+2026-07-09 23:22:01 info: [0mPOST /api/v1/admin/auth/login [32m200[0m 1875.905 ms - 735[0m
+2026-07-09 23:22:01 info: [0mGET /api/v1/farmer/profile [32m200[0m 56.604 ms - 209[0m
+2026-07-09 23:22:02 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [32m200[0m 635.459 ms - 126[0m
+2026-07-09 23:22:02 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [32m200[0m 707.317 ms - 175[0m
+2026-07-09 23:22:02 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [32m200[0m 709.034 ms - 190[0m
+2026-07-09 23:22:02 info: [0mGET /api/v1/farmer/dashboard [32m200[0m 1168.744 ms - 180[0m
+2026-07-09 23:22:32 error: TooManyRequestsError: Gemini API rate limit exceeded. Please retry later.
+    at mapGeminiHttpError (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:23:14)
+    at callGeminiGenerateContent (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:54:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Module.generateRecommendation (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:71:23)
+    at async recommend (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/controllers/recommendationController.js:5:26)
+2026-07-09 23:22:32 info: [0mPOST /api/v1/ai/recommend [33m429[0m 467.173 ms - 121[0m
+2026-07-09 23:22:40 error: TooManyRequestsError: Gemini API rate limit exceeded. Please retry later.
+    at mapGeminiHttpError (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:23:14)
+    at callGeminiGenerateContent (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:54:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Module.generateRecommendation (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:71:23)
+    at async recommend (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/controllers/recommendationController.js:5:26)
+2026-07-09 23:22:40 info: [0mPOST /api/v1/ai/recommend [33m429[0m 579.444 ms - 121[0m
+2026-07-09 23:22:49 error: TooManyRequestsError: Gemini API rate limit exceeded. Please retry later.
+    at mapGeminiHttpError (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:23:14)
+    at callGeminiGenerateContent (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:54:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Module.generateRecommendation (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:71:23)
+    at async recommend (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/controllers/recommendationController.js:5:26)
+2026-07-09 23:22:49 info: [0mPOST /api/v1/ai/recommend [33m429[0m 392.533 ms - 121[0m
+2026-07-09 23:25:35 info: 
+🛑 Received SIGINT. Shutting down gracefully…
+2026-07-09 23:25:44 info: ✓ dotenv loaded
+2026-07-09 23:25:44 info: ✓ DATABASE_URL found
+2026-07-09 23:25:44 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 23:25:44 info:   KrishiLink API — Starting Up
+2026-07-09 23:25:44 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 23:25:44 info: ✓ Environment   : development
+2026-07-09 23:25:44 info: ✓ Environment variables loaded
+2026-07-09 23:25:44 info: ✓ Supabase PostgreSQL configuration loaded
+2026-07-09 23:25:44 info: ✓ Connecting to Supabase...
+2026-07-09 23:25:45 info: ✓ Connected
+2026-07-09 23:25:45 info: ✓ Database connected
+2026-07-09 23:25:45 warn: ⚠️  Port 3000 is already in use. Finding next available port…
+2026-07-09 23:25:45 warn: ⚠️  Switching to port 3001. Set PORT=3001 in .env to make permanent.
+2026-07-09 23:25:45 info: ✓ Server listening on PORT 3001
+2026-07-09 23:25:45 info: ✓ API Base URL  : http://localhost:3001/api/v1
+2026-07-09 23:25:45 info: ✓ Swagger Docs  : http://localhost:3001/api-docs
+2026-07-09 23:25:45 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 23:26:24 info: [0mPOST /api/v1/admin/auth/login [32m200[0m 1167.597 ms - 735[0m
+2026-07-09 23:26:25 info: [0mGET /api/v1/farmer/profile [32m200[0m 59.681 ms - 209[0m
+2026-07-09 23:26:25 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [32m200[0m 651.050 ms - 126[0m
+2026-07-09 23:26:26 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [32m200[0m 742.644 ms - 175[0m
+2026-07-09 23:26:26 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [32m200[0m 743.449 ms - 190[0m
+2026-07-09 23:26:26 info: [0mGET /api/v1/farmer/dashboard [32m200[0m 883.790 ms - 180[0m
+2026-07-09 23:26:31 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [32m200[0m 120.459 ms - 126[0m
+2026-07-09 23:27:00 error: TooManyRequestsError: Gemini API rate limit exceeded. Please retry later.
+    at mapGeminiHttpError (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:23:14)
+    at callGeminiGenerateContent (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:54:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Module.generateRecommendation (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:71:23)
+    at async recommend (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/controllers/recommendationController.js:5:26)
+2026-07-09 23:27:00 info: [0mPOST /api/v1/ai/recommend [33m429[0m 412.687 ms - 121[0m
+2026-07-09 23:27:09 error: TooManyRequestsError: Gemini API rate limit exceeded. Please retry later.
+    at mapGeminiHttpError (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:23:14)
+    at callGeminiGenerateContent (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:54:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Module.generateRecommendation (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:71:23)
+    at async recommend (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/controllers/recommendationController.js:5:26)
+2026-07-09 23:27:09 info: [0mPOST /api/v1/ai/recommend [33m429[0m 350.291 ms - 121[0m
+2026-07-09 23:27:25 error: TooManyRequestsError: Gemini API rate limit exceeded. Please retry later.
+    at mapGeminiHttpError (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:23:14)
+    at callGeminiGenerateContent (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:54:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Module.generateRecommendation (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:71:23)
+    at async recommend (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/controllers/recommendationController.js:5:26)
+2026-07-09 23:27:25 info: [0mPOST /api/v1/ai/recommend [33m429[0m 422.644 ms - 121[0m
+2026-07-09 23:27:28 error: TooManyRequestsError: Gemini API rate limit exceeded. Please retry later.
+    at mapGeminiHttpError (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:23:14)
+    at callGeminiGenerateContent (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:54:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Module.generateRecommendation (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:71:23)
+    at async recommend (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/controllers/recommendationController.js:5:26)
+2026-07-09 23:27:28 info: [0mPOST /api/v1/ai/recommend [33m429[0m 226.133 ms - 121[0m
+2026-07-09 23:28:21 info: ✓ dotenv loaded
+2026-07-09 23:28:21 info: ✓ DATABASE_URL found
+2026-07-09 23:28:21 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 23:28:21 info:   KrishiLink API — Starting Up
+2026-07-09 23:28:21 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 23:28:21 info: ✓ Environment   : development
+2026-07-09 23:28:21 info: ✓ Environment variables loaded
+2026-07-09 23:28:21 info: ✓ Supabase PostgreSQL configuration loaded
+2026-07-09 23:28:21 info: ✓ Connecting to Supabase...
+2026-07-09 23:28:21 info: ✓ dotenv loaded
+2026-07-09 23:28:21 info: ✓ DATABASE_URL found
+2026-07-09 23:28:21 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 23:28:21 info:   KrishiLink API — Starting Up
+2026-07-09 23:28:21 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 23:28:21 info: ✓ Environment   : development
+2026-07-09 23:28:21 info: ✓ Environment variables loaded
+2026-07-09 23:28:21 info: ✓ Supabase PostgreSQL configuration loaded
+2026-07-09 23:28:21 info: ✓ Connecting to Supabase...
+2026-07-09 23:28:22 info: ✓ Connected
+2026-07-09 23:28:22 info: ✓ Database connected
+2026-07-09 23:28:22 info: ✓ Server listening on PORT 3000
+2026-07-09 23:28:22 info: ✓ API Base URL  : http://localhost:3000/api/v1
+2026-07-09 23:28:22 info: ✓ Swagger Docs  : http://localhost:3000/api-docs
+2026-07-09 23:28:22 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 23:28:22 info: ✓ Connected
+2026-07-09 23:28:22 info: ✓ Database connected
+2026-07-09 23:28:22 warn: ⚠️  Port 3000 is already in use. Finding next available port…
+2026-07-09 23:28:22 warn: ⚠️  Switching to port 3001. Set PORT=3001 in .env to make permanent.
+2026-07-09 23:28:22 info: ✓ Server listening on PORT 3001
+2026-07-09 23:28:22 info: ✓ API Base URL  : http://localhost:3001/api/v1
+2026-07-09 23:28:22 info: ✓ Swagger Docs  : http://localhost:3001/api-docs
+2026-07-09 23:28:22 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 23:29:42 info: [0mGET /api/v1/admin/auth/me [32m200[0m 693.282 ms - 253[0m
+2026-07-09 23:29:43 info: [0mGET /api/v1/admin/auth/me [32m200[0m 77.919 ms - 253[0m
+2026-07-09 23:29:47 info: [0mGET /api/v1/farmer/profile [32m200[0m 89.694 ms - 209[0m
+2026-07-09 23:29:47 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [32m200[0m 703.817 ms - 175[0m
+2026-07-09 23:29:47 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [32m200[0m 709.330 ms - 126[0m
+2026-07-09 23:29:47 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [32m200[0m 705.074 ms - 190[0m
+2026-07-09 23:29:47 info: [0mGET /api/v1/farmer/dashboard [32m200[0m 853.666 ms - 180[0m
+2026-07-09 23:30:32 info: [0mPOST /api/v1/ai/recommend [32m200[0m 606.453 ms - 700[0m
+2026-07-09 23:32:27 info: [0mGET /api/v1/admin/auth/me [32m200[0m 658.714 ms - 253[0m
+2026-07-09 23:32:27 info: [0mGET /api/v1/admin/auth/me [32m200[0m 61.228 ms - 253[0m
+2026-07-09 23:33:37 info: [0mPOST /api/v1/admin/auth/register [32m201[0m 1446.029 ms - 745[0m
+2026-07-09 23:33:38 info: [0mGET /api/v1/farmer/profile [32m200[0m 81.880 ms - 207[0m
+2026-07-09 23:33:39 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [32m200[0m 970.234 ms - 126[0m
+2026-07-09 23:33:39 info: [0mGET /api/v1/return-trips/suggestions?status=suggested&limit=5 [32m200[0m 1033.320 ms - 190[0m
+2026-07-09 23:33:39 info: [0mGET /api/v1/shared-groups?status=open&limit=5 [32m200[0m 1035.810 ms - 175[0m
+2026-07-09 23:33:39 info: [0mGET /api/v1/farmer/dashboard [32m200[0m 1072.027 ms - 180[0m
+2026-07-09 23:36:40 info: [0mPOST /api/v1/ai/recommend [32m200[0m 3077.173 ms - 695[0m
+2026-07-09 23:38:00 info: [0mGET /api/v1/admin/auth/me [32m200[0m 742.841 ms - 253[0m
+2026-07-09 23:38:00 info: [0mGET /api/v1/admin/auth/me [32m200[0m 79.337 ms - 253[0m
+2026-07-09 23:38:32 info: [0mPOST /api/v1/ai/recommend [32m200[0m 541.959 ms - 698[0m
+2026-07-09 23:38:40 info: [0mPOST /api/v1/farmer/bookings [32m201[0m 569.389 ms - 589[0m
+2026-07-09 23:38:42 info: [0mGET /api/v1/farmer/bookings?page=1&limit=10 [32m200[0m 55.190 ms - 628[0m
+2026-07-09 23:38:50 info: [0mPOST /api/v1/admin/auth/logout [32m200[0m 75.019 ms - 127[0m
+2026-07-09 23:39:19 error: UnauthorizedError: Invalid email or password
+    at Module.login (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/services/authService.js:110:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async login (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/controllers/authController.js:15:18)
+2026-07-09 23:39:19 info: [0mPOST /api/v1/admin/auth/login [33m401[0m 67.713 ms - 95[0m
+2026-07-09 23:42:30 info: [0mPOST /api/v1/admin/auth/register [32m201[0m 2086.925 ms - 740[0m
+2026-07-09 23:42:31 info: [0mGET /api/v1/driver/dashboard [32m200[0m 819.085 ms - -[0m
+2026-07-09 23:42:47 info: [0mPOST /api/v1/driver/bookings/ad268a27-d4e7-4272-916a-e09025948f2b/accept [32m200[0m 605.288 ms - 646[0m
+2026-07-09 23:42:47 info: [0mGET /api/v1/driver/dashboard [32m200[0m 200.839 ms - -[0m
+2026-07-09 23:42:57 info: [0mGET /api/v1/bookings?page=1&limit=10 [32m200[0m 173.095 ms - 173[0m
+2026-07-09 23:43:34 info: [0mPUT /api/v1/driver/availability [32m200[0m 1444.140 ms - 135[0m
+2026-07-09 23:43:36 info: [0mGET /api/v1/driver/dashboard [32m200[0m 1940.913 ms - -[0m
+2026-07-09 23:43:41 info: [0mGET /api/v1/admin/auth/me [32m200[0m 77.802 ms - 246[0m
+2026-07-09 23:44:00 info: [0mPUT /api/v1/driver/availability [32m200[0m 167.132 ms - 133[0m
+2026-07-09 23:44:00 info: [0mGET /api/v1/driver/dashboard [32m200[0m 226.698 ms - -[0m
+2026-07-09 23:44:08 info: [0mGET /api/v1/return-trips/suggestions?status=pending&page=1&limit=10 [33m400[0m 2.374 ms - 136[0m
+2026-07-09 23:44:09 info: [0mGET /api/v1/return-trips/suggestions?status=pending&page=1&limit=10 [33m400[0m 0.589 ms - 136[0m
+2026-07-09 23:44:11 info: [0mGET /api/v1/return-trips/availability [32m200[0m 3086.500 ms - 146[0m
+2026-07-09 23:45:39 info: ✓ dotenv loaded
+2026-07-09 23:45:39 info: ✓ DATABASE_URL found
+2026-07-09 23:45:39 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 23:45:39 info:   KrishiLink API — Starting Up
+2026-07-09 23:45:39 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 23:45:39 info: ✓ Environment   : development
+2026-07-09 23:45:39 info: ✓ Environment variables loaded
+2026-07-09 23:45:39 info: ✓ Supabase PostgreSQL configuration loaded
+2026-07-09 23:45:39 info: ✓ Connecting to Supabase...
+2026-07-09 23:45:40 info: ✓ Connected
+2026-07-09 23:45:40 info: ✓ Database connected
+2026-07-09 23:45:40 warn: ⚠️  Port 3000 is already in use. Finding next available port…
+2026-07-09 23:45:40 warn: ⚠️  Switching to port 3001. Set PORT=3001 in .env to make permanent.
+2026-07-09 23:45:40 info: ✓ Server listening on PORT 3001
+2026-07-09 23:45:40 info: ✓ API Base URL  : http://localhost:3001/api/v1
+2026-07-09 23:45:40 info: ✓ Swagger Docs  : http://localhost:3001/api-docs
+2026-07-09 23:45:40 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 23:46:11 info: ✓ dotenv loaded
+2026-07-09 23:46:11 info: ✓ DATABASE_URL found
+2026-07-09 23:46:11 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 23:46:11 info:   KrishiLink API — Starting Up
+2026-07-09 23:46:11 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 23:46:11 info: ✓ Environment   : development
+2026-07-09 23:46:11 info: ✓ Environment variables loaded
+2026-07-09 23:46:11 info: ✓ Supabase PostgreSQL configuration loaded
+2026-07-09 23:46:11 info: ✓ Connecting to Supabase...
+2026-07-09 23:46:11 info: ✓ Connected
+2026-07-09 23:47:45 info: ✓ dotenv loaded
+2026-07-09 23:47:45 info: ✓ DATABASE_URL found
+2026-07-09 23:47:45 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 23:47:45 info:   KrishiLink API — Starting Up
+2026-07-09 23:47:45 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-07-09 23:47:45 info: ✓ Environment   : development
+2026-07-09 23:47:45 info: ✓ Environment variables loaded
+2026-07-09 23:47:45 info: ✓ Supabase PostgreSQL configuration loaded
+2026-07-09 23:47:45 info: ✓ Connecting to Supabase...
+2026-07-09 23:47:46 info: ✓ Connected
+2026-07-09 23:47:46 info: ✓ Database connected
+2026-07-09 23:47:46 info: ✓ Server listening on PORT 3000
+2026-07-09 23:47:46 info: ✓ API Base URL  : http://localhost:3000/api/v1
+2026-07-09 23:47:46 info: ✓ Swagger Docs  : http://localhost:3000/api-docs
+2026-07-09 23:47:46 info: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

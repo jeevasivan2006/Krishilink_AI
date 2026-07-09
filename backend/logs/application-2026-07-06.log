@@ -1,0 +1,50 @@
+2026-07-06 23:31:28 error: AggregateError [ECONNREFUSED]: 
+    at C:\Users\jeeva\OneDrive\Desktop\KrishiLink_Ai\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async connectDatabase (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/config/database.js:55:5)
+    at async start (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/server.js:8:3)
+2026-07-06 23:32:10 error: AggregateError [ECONNREFUSED]: 
+    at C:\Users\jeeva\OneDrive\Desktop\KrishiLink_Ai\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async connectDatabase (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/config/database.js:55:5)
+    at async start (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/server.js:8:3)
+2026-07-06 23:33:20 error: AggregateError [ECONNREFUSED]: 
+    at C:\Users\jeeva\OneDrive\Desktop\KrishiLink_Ai\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async connectDatabase (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/config/database.js:55:5)
+    at async start (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/server.js:8:3)
+2026-07-06 23:34:22 error: AggregateError [ECONNREFUSED]: 
+    at C:\Users\jeeva\OneDrive\Desktop\KrishiLink_Ai\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async connectDatabase (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/config/database.js:55:5)
+    at async start (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/server.js:8:3)
+2026-07-06 23:34:39 error: AggregateError [ECONNREFUSED]: 
+    at C:\Users\jeeva\OneDrive\Desktop\KrishiLink_Ai\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async connectDatabase (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/config/database.js:55:5)
+    at async start (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/server.js:8:3)
+2026-07-06 23:40:58 error: AggregateError [ECONNREFUSED]: 
+    at C:\Users\jeeva\OneDrive\Desktop\KrishiLink_Ai\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async connectDatabase (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/config/database.js:55:5)
+    at async start (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/server.js:8:3)
+2026-07-06 23:42:21 error: AggregateError [ECONNREFUSED]: 
+    at C:\Users\jeeva\OneDrive\Desktop\KrishiLink_Ai\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async connectDatabase (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/config/database.js:55:5)
+    at async start (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/server.js:8:3)
+2026-07-06 23:44:55 info: ✓ dotenv loaded
+2026-07-06 23:44:55 info: ✓ DATABASE_URL found
+2026-07-06 23:44:55 info: ✓ Connecting to Supabase...
+2026-07-06 23:44:56 info: ✓ Connected
+2026-07-06 23:44:56 info: KrishiLink API listening on port 3000
+2026-07-06 23:45:15 info: ✓ dotenv loaded
+2026-07-06 23:45:15 info: ✓ DATABASE_URL found
+2026-07-06 23:45:16 info: ✓ Connecting to Supabase...
+2026-07-06 23:45:16 info: ✓ Connected
+2026-07-06 23:45:43 info: 🛑 PostgreSQL pool has been closed
+2026-07-06 23:46:04 info: ✓ dotenv loaded
+2026-07-06 23:46:04 info: ✓ DATABASE_URL found
+2026-07-06 23:46:04 info: ✓ Connecting to Supabase...
+2026-07-06 23:46:05 info: ✓ Connected
+2026-07-06 23:46:05 info: KrishiLink API listening on port 3000

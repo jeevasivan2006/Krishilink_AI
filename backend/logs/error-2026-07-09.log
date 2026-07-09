@@ -1,0 +1,146 @@
+2026-07-09 00:01:03 error: error: current transaction is aborted, commands ignored until end of transaction block
+    at C:\Users\jeeva\OneDrive\Desktop\KrishiLink_Ai\backend\node_modules\pg\lib\client.js:652:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/services/authService.js:66:5
+    at async withTransaction (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/database/transaction.js:11:20)
+    at async registerUser (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/controllers/authController.js:10:18)
+2026-07-09 00:01:04 error: error: current transaction is aborted, commands ignored until end of transaction block
+    at C:\Users\jeeva\OneDrive\Desktop\KrishiLink_Ai\backend\node_modules\pg\lib\client.js:652:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/services/authService.js:66:5
+    at async withTransaction (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/database/transaction.js:11:20)
+    at async registerUser (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/controllers/authController.js:10:18)
+2026-07-09 00:12:04 error: error: current transaction is aborted, commands ignored until end of transaction block
+    at C:\Users\jeeva\OneDrive\Desktop\KrishiLink_Ai\backend\node_modules\pg\lib\client.js:652:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/services/authService.js:66:5
+    at async withTransaction (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/database/transaction.js:11:20)
+    at async registerUser (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/controllers/authController.js:10:18)
+2026-07-09 00:12:05 error: error: current transaction is aborted, commands ignored until end of transaction block
+    at C:\Users\jeeva\OneDrive\Desktop\KrishiLink_Ai\backend\node_modules\pg\lib\client.js:652:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/services/authService.js:66:5
+    at async withTransaction (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/database/transaction.js:11:20)
+    at async registerUser (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/controllers/authController.js:10:18)
+2026-07-09 00:14:42 error: error: current transaction is aborted, commands ignored until end of transaction block
+    at C:\Users\jeeva\OneDrive\Desktop\KrishiLink_Ai\backend\node_modules\pg\lib\client.js:652:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/services/authService.js:66:5
+    at async withTransaction (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/database/transaction.js:11:20)
+    at async registerUser (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/controllers/authController.js:10:18)
+2026-07-09 00:14:44 error: error: current transaction is aborted, commands ignored until end of transaction block
+    at C:\Users\jeeva\OneDrive\Desktop\KrishiLink_Ai\backend\node_modules\pg\lib\client.js:652:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/services/authService.js:66:5
+    at async withTransaction (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/database/transaction.js:11:20)
+    at async registerUser (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/controllers/authController.js:10:18)
+2026-07-09 00:24:08 error: ConflictError: An account with this email already exists
+    at file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/services/authService.js:29:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async withTransaction (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/database/transaction.js:11:20)
+    at async registerUser (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/controllers/authController.js:10:18)
+2026-07-09 00:24:16 error: ConflictError: An account with this email already exists
+    at file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/services/authService.js:29:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async withTransaction (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/database/transaction.js:11:20)
+    at async registerUser (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/controllers/authController.js:10:18)
+2026-07-09 00:24:34 error: UnauthorizedError: Invalid email or password
+    at Module.login (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/services/authService.js:121:23)
+    at async login (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/controllers/authController.js:16:18)
+2026-07-09 00:25:07 error: UnauthorizedError: Invalid email or password
+    at Module.login (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/services/authService.js:110:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async login (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/controllers/authController.js:16:18)
+2026-07-09 00:25:30 error: UnauthorizedError: Invalid email or password
+    at Module.login (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/services/authService.js:110:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async login (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/controllers/authController.js:16:18)
+2026-07-09 22:19:48 error: UnauthorizedError: Invalid email or password
+    at Module.login (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/services/authService.js:110:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async login (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/controllers/authController.js:16:18)
+2026-07-09 22:33:57 error: UnauthorizedError: Invalid email or password
+    at Module.login (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/services/authService.js:110:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async login (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/controllers/authController.js:15:18)
+2026-07-09 22:49:26 error: ConflictError: An account with this email already exists
+    at file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/services/authService.js:29:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async withTransaction (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/database/transaction.js:11:20)
+    at async registerUser (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/controllers/authController.js:9:18)
+2026-07-09 23:15:12 error: UnauthorizedError: Invalid email or password
+    at Module.login (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/services/authService.js:110:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async login (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/controllers/authController.js:15:18)
+2026-07-09 23:15:28 error: UnauthorizedError: Invalid email or password
+    at Module.login (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/services/authService.js:110:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async login (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/controllers/authController.js:15:18)
+2026-07-09 23:15:37 error: UnauthorizedError: Invalid email or password
+    at Module.login (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/services/authService.js:121:23)
+    at async login (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/controllers/authController.js:15:18)
+2026-07-09 23:19:00 error: TooManyRequestsError: Gemini API rate limit exceeded. Please retry later.
+    at mapGeminiHttpError (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:23:14)
+    at callGeminiGenerateContent (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:54:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Module.generateRecommendation (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:71:23)
+    at async recommend (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/controllers/recommendationController.js:5:26)
+2026-07-09 23:19:18 error: TooManyRequestsError: Gemini API rate limit exceeded. Please retry later.
+    at mapGeminiHttpError (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:23:14)
+    at callGeminiGenerateContent (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:54:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Module.generateRecommendation (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:71:23)
+    at async recommend (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/controllers/recommendationController.js:5:26)
+2026-07-09 23:19:18 error: TooManyRequestsError: Gemini API rate limit exceeded. Please retry later.
+    at mapGeminiHttpError (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:23:14)
+    at callGeminiGenerateContent (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:54:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Module.generateRecommendation (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:71:23)
+    at async recommend (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/controllers/recommendationController.js:5:26)
+2026-07-09 23:22:32 error: TooManyRequestsError: Gemini API rate limit exceeded. Please retry later.
+    at mapGeminiHttpError (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:23:14)
+    at callGeminiGenerateContent (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:54:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Module.generateRecommendation (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:71:23)
+    at async recommend (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/controllers/recommendationController.js:5:26)
+2026-07-09 23:22:40 error: TooManyRequestsError: Gemini API rate limit exceeded. Please retry later.
+    at mapGeminiHttpError (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:23:14)
+    at callGeminiGenerateContent (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:54:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Module.generateRecommendation (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:71:23)
+    at async recommend (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/controllers/recommendationController.js:5:26)
+2026-07-09 23:22:49 error: TooManyRequestsError: Gemini API rate limit exceeded. Please retry later.
+    at mapGeminiHttpError (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:23:14)
+    at callGeminiGenerateContent (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:54:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Module.generateRecommendation (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:71:23)
+    at async recommend (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/controllers/recommendationController.js:5:26)
+2026-07-09 23:27:00 error: TooManyRequestsError: Gemini API rate limit exceeded. Please retry later.
+    at mapGeminiHttpError (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:23:14)
+    at callGeminiGenerateContent (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:54:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Module.generateRecommendation (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:71:23)
+    at async recommend (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/controllers/recommendationController.js:5:26)
+2026-07-09 23:27:09 error: TooManyRequestsError: Gemini API rate limit exceeded. Please retry later.
+    at mapGeminiHttpError (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:23:14)
+    at callGeminiGenerateContent (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:54:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Module.generateRecommendation (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:71:23)
+    at async recommend (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/controllers/recommendationController.js:5:26)
+2026-07-09 23:27:25 error: TooManyRequestsError: Gemini API rate limit exceeded. Please retry later.
+    at mapGeminiHttpError (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:23:14)
+    at callGeminiGenerateContent (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:54:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Module.generateRecommendation (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:71:23)
+    at async recommend (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/controllers/recommendationController.js:5:26)
+2026-07-09 23:27:28 error: TooManyRequestsError: Gemini API rate limit exceeded. Please retry later.
+    at mapGeminiHttpError (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:23:14)
+    at callGeminiGenerateContent (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:54:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Module.generateRecommendation (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/services/recommendationService.js:71:23)
+    at async recommend (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/ai/controllers/recommendationController.js:5:26)
+2026-07-09 23:39:19 error: UnauthorizedError: Invalid email or password
+    at Module.login (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/services/authService.js:110:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async login (file:///C:/Users/jeeva/OneDrive/Desktop/KrishiLink_Ai/backend/src/admin/controllers/authController.js:15:18)
+2026-07-09 23:46:11 error: ❌ Failed to start server
