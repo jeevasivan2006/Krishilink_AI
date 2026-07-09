@@ -41,7 +41,7 @@ function createPool() {
     max: Number(process.env.PG_POOL_MAX) || 20,
     idleTimeoutMillis: Number(process.env.PG_IDLE_TIMEOUT) || 30000,
     connectionTimeoutMillis: Number(process.env.PG_CONN_TIMEOUT) || 2000,
-    ...(isLocal ? {} : { ssl: { rejectUnauthorized: false } }),
+    ssl: isLocal ? false : { rejectUnauthorized: false },
   });
 }
 
