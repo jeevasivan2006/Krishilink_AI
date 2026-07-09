@@ -35,14 +35,27 @@ let _pool = null;
  */
 function createPool() {
   const isLocal = process.env.DATABASE_URL.includes('localhost') || process.env.DATABASE_URL.includes('127.0.0.1');
+  
+  // Extract hostname from connection string to set as SNI servername
+  let host = 'aws-0-ap-south-1.pooler.supabase.com';
+  try {
+    const urlMatches = process.env.DATABASE_URL.match(/@([^/:]+)/);
+    if (urlMatches && urlMatches[1]) {
+      host = urlMatches[1];
+    }
+  } catch (e) {
+    // Fallback to default host
+  }
+
   const sslConfig = isLocal ? false : {
     rejectUnauthorized: false,
-    require: true
+    require: true,
+    servername: host // Crucial for SNI identification on Supabase pooler
   };
-  logger.info(`✓ PostgreSQL Pool SSL mode: ${sslConfig ? 'Enabled (No-Verify)' : 'Disabled'}`);
+
+  logger.info(`✓ PostgreSQL Pool SSL mode: ${sslConfig ? 'Enabled (No-Verify with SNI)' : 'Disabled'}`);
   return new Pool({
     connectionString: process.env.DATABASE_URL,
-    // Production‑grade defaults – you can tune these as needed
     max: Number(process.env.PG_POOL_MAX) || 20,
     idleTimeoutMillis: Number(process.env.PG_IDLE_TIMEOUT) || 30000,
     connectionTimeoutMillis: Number(process.env.PG_CONN_TIMEOUT) || 2000,
